@@ -1,0 +1,1687 @@
+TMHMM result
+
+# sp|P05067|A4_HUMAN Length: 770
+# sp|P05067|A4_HUMAN Number of predicted TMHs:  1
+# sp|P05067|A4_HUMAN Exp number of AAs in TMHs: 22.72525
+# sp|P05067|A4_HUMAN Exp number, first 60 AAs:  0.0027
+# sp|P05067|A4_HUMAN Total prob of N-in:        0.00015
+sp|P05067|A4_HUMAN	TMHMM2.0	outside	     1   700
+sp|P05067|A4_HUMAN	TMHMM2.0	TMhelix	   701   723
+sp|P05067|A4_HUMAN	TMHMM2.0	inside	   724   770
+
+# sp|Q13740|CD166_HUMAN Length: 583
+# sp|Q13740|CD166_HUMAN Number of predicted TMHs:  1
+# sp|Q13740|CD166_HUMAN Exp number of AAs in TMHs: 33.42863
+# sp|Q13740|CD166_HUMAN Exp number, first 60 AAs:  10.61519
+# sp|Q13740|CD166_HUMAN Total prob of N-in:        0.51251
+# sp|Q13740|CD166_HUMAN POSSIBLE N-term signal sequence
+sp|Q13740|CD166_HUMAN	TMHMM2.0	outside	     1   527
+sp|Q13740|CD166_HUMAN	TMHMM2.0	TMhelix	   528   550
+sp|Q13740|CD166_HUMAN	TMHMM2.0	inside	   551   583
+
+# tr|D6RFX5|D6RFX5_HUMAN Length: 274
+# tr|D6RFX5|D6RFX5_HUMAN Number of predicted TMHs:  1
+# tr|D6RFX5|D6RFX5_HUMAN Exp number of AAs in TMHs: 56.90303
+# tr|D6RFX5|D6RFX5_HUMAN Exp number, first 60 AAs:  19.31385
+# tr|D6RFX5|D6RFX5_HUMAN Total prob of N-in:        0.06024
+# tr|D6RFX5|D6RFX5_HUMAN POSSIBLE N-term signal sequence
+tr|D6RFX5|D6RFX5_HUMAN	TMHMM2.0	outside	     1   198
+tr|D6RFX5|D6RFX5_HUMAN	TMHMM2.0	TMhelix	   199   221
+tr|D6RFX5|D6RFX5_HUMAN	TMHMM2.0	inside	   222   274
+
+# sp|P30530|UFO_HUMAN Length: 894
+# sp|P30530|UFO_HUMAN Number of predicted TMHs:  1
+# sp|P30530|UFO_HUMAN Exp number of AAs in TMHs: 23.9628599999999
+# sp|P30530|UFO_HUMAN Exp number, first 60 AAs:  0.7044
+# sp|P30530|UFO_HUMAN Total prob of N-in:        0.08415
+sp|P30530|UFO_HUMAN	TMHMM2.0	outside	     1   449
+sp|P30530|UFO_HUMAN	TMHMM2.0	TMhelix	   450   472
+sp|P30530|UFO_HUMAN	TMHMM2.0	inside	   473   894
+
+# sp|P35613|BASI_HUMAN Length: 385
+# sp|P35613|BASI_HUMAN Number of predicted TMHs:  2
+# sp|P35613|BASI_HUMAN Exp number of AAs in TMHs: 40.02169
+# sp|P35613|BASI_HUMAN Exp number, first 60 AAs:  17.21975
+# sp|P35613|BASI_HUMAN Total prob of N-in:        0.67154
+# sp|P35613|BASI_HUMAN POSSIBLE N-term signal sequence
+sp|P35613|BASI_HUMAN	TMHMM2.0	inside	     1     4
+sp|P35613|BASI_HUMAN	TMHMM2.0	TMhelix	     5    27
+sp|P35613|BASI_HUMAN	TMHMM2.0	outside	    28   322
+sp|P35613|BASI_HUMAN	TMHMM2.0	TMhelix	   323   345
+sp|P35613|BASI_HUMAN	TMHMM2.0	inside	   346   385
+
+# sp|P35070|BTC_HUMAN Length: 178
+# sp|P35070|BTC_HUMAN Number of predicted TMHs:  2
+# sp|P35070|BTC_HUMAN Exp number of AAs in TMHs: 44.44269
+# sp|P35070|BTC_HUMAN Exp number, first 60 AAs:  21.32877
+# sp|P35070|BTC_HUMAN Total prob of N-in:        0.99568
+# sp|P35070|BTC_HUMAN POSSIBLE N-term signal sequence
+sp|P35070|BTC_HUMAN	TMHMM2.0	inside	     1     8
+sp|P35070|BTC_HUMAN	TMHMM2.0	TMhelix	     9    31
+sp|P35070|BTC_HUMAN	TMHMM2.0	outside	    32   118
+sp|P35070|BTC_HUMAN	TMHMM2.0	TMhelix	   119   141
+sp|P35070|BTC_HUMAN	TMHMM2.0	inside	   142   178
+
+# sp|Q9BY67|CADM1_HUMAN Length: 442
+# sp|Q9BY67|CADM1_HUMAN Number of predicted TMHs:  1
+# sp|Q9BY67|CADM1_HUMAN Exp number of AAs in TMHs: 23.225
+# sp|Q9BY67|CADM1_HUMAN Exp number, first 60 AAs:  0.61321
+# sp|Q9BY67|CADM1_HUMAN Total prob of N-in:        0.02975
+sp|Q9BY67|CADM1_HUMAN	TMHMM2.0	outside	     1   373
+sp|Q9BY67|CADM1_HUMAN	TMHMM2.0	TMhelix	   374   396
+sp|Q9BY67|CADM1_HUMAN	TMHMM2.0	inside	   397   442
+
+# sp|Q86VB7|C163A_HUMAN Length: 1156
+# sp|Q86VB7|C163A_HUMAN Number of predicted TMHs:  2
+# sp|Q86VB7|C163A_HUMAN Exp number of AAs in TMHs: 44.0293
+# sp|Q86VB7|C163A_HUMAN Exp number, first 60 AAs:  21.78636
+# sp|Q86VB7|C163A_HUMAN Total prob of N-in:        0.95409
+# sp|Q86VB7|C163A_HUMAN POSSIBLE N-term signal sequence
+sp|Q86VB7|C163A_HUMAN	TMHMM2.0	inside	     1    20
+sp|Q86VB7|C163A_HUMAN	TMHMM2.0	TMhelix	    21    43
+sp|Q86VB7|C163A_HUMAN	TMHMM2.0	outside	    44  1048
+sp|Q86VB7|C163A_HUMAN	TMHMM2.0	TMhelix	  1049  1071
+sp|Q86VB7|C163A_HUMAN	TMHMM2.0	inside	  1072  1156
+
+# tr|Q9HCX5|Q9HCX5_HUMAN Length: 21
+# tr|Q9HCX5|Q9HCX5_HUMAN Number of predicted TMHs:  0
+# tr|Q9HCX5|Q9HCX5_HUMAN Exp number of AAs in TMHs: 6.58304
+# tr|Q9HCX5|Q9HCX5_HUMAN Exp number, first 60 AAs:  6.58304
+# tr|Q9HCX5|Q9HCX5_HUMAN Total prob of N-in:        0.40360
+tr|Q9HCX5|Q9HCX5_HUMAN	TMHMM2.0	outside	     1    21
+
+# sp|P16671|CD36_HUMAN Length: 472
+# sp|P16671|CD36_HUMAN Number of predicted TMHs:  2
+# sp|P16671|CD36_HUMAN Exp number of AAs in TMHs: 45.2187799999999
+# sp|P16671|CD36_HUMAN Exp number, first 60 AAs:  22.58662
+# sp|P16671|CD36_HUMAN Total prob of N-in:        0.99561
+# sp|P16671|CD36_HUMAN POSSIBLE N-term signal sequence
+sp|P16671|CD36_HUMAN	TMHMM2.0	inside	     1     6
+sp|P16671|CD36_HUMAN	TMHMM2.0	TMhelix	     7    29
+sp|P16671|CD36_HUMAN	TMHMM2.0	outside	    30   440
+sp|P16671|CD36_HUMAN	TMHMM2.0	TMhelix	   441   463
+sp|P16671|CD36_HUMAN	TMHMM2.0	inside	   464   472
+
+# sp|P25942|TNR5_HUMAN Length: 277
+# sp|P25942|TNR5_HUMAN Number of predicted TMHs:  1
+# sp|P25942|TNR5_HUMAN Exp number of AAs in TMHs: 21.46358
+# sp|P25942|TNR5_HUMAN Exp number, first 60 AAs:  0.00244
+# sp|P25942|TNR5_HUMAN Total prob of N-in:        0.01590
+sp|P25942|TNR5_HUMAN	TMHMM2.0	outside	     1   192
+sp|P25942|TNR5_HUMAN	TMHMM2.0	TMhelix	   193   215
+sp|P25942|TNR5_HUMAN	TMHMM2.0	inside	   216   277
+
+# sp|P29965|CD40L_HUMAN Length: 261
+# sp|P29965|CD40L_HUMAN Number of predicted TMHs:  1
+# sp|P29965|CD40L_HUMAN Exp number of AAs in TMHs: 22.82637
+# sp|P29965|CD40L_HUMAN Exp number, first 60 AAs:  22.8084
+# sp|P29965|CD40L_HUMAN Total prob of N-in:        0.42845
+# sp|P29965|CD40L_HUMAN POSSIBLE N-term signal sequence
+sp|P29965|CD40L_HUMAN	TMHMM2.0	outside	     1    22
+sp|P29965|CD40L_HUMAN	TMHMM2.0	TMhelix	    23    45
+sp|P29965|CD40L_HUMAN	TMHMM2.0	inside	    46   261
+
+# sp|P16070|CD44_HUMAN Length: 742
+# sp|P16070|CD44_HUMAN Number of predicted TMHs:  1
+# sp|P16070|CD44_HUMAN Exp number of AAs in TMHs: 24.71428
+# sp|P16070|CD44_HUMAN Exp number, first 60 AAs:  2.22817
+# sp|P16070|CD44_HUMAN Total prob of N-in:        0.11224
+sp|P16070|CD44_HUMAN	TMHMM2.0	outside	     1   649
+sp|P16070|CD44_HUMAN	TMHMM2.0	TMhelix	   650   672
+sp|P16070|CD44_HUMAN	TMHMM2.0	inside	   673   742
+
+# sp|P09603|CSF1_HUMAN Length: 554
+# sp|P09603|CSF1_HUMAN Number of predicted TMHs:  1
+# sp|P09603|CSF1_HUMAN Exp number of AAs in TMHs: 22.87733
+# sp|P09603|CSF1_HUMAN Exp number, first 60 AAs:  0.71601
+# sp|P09603|CSF1_HUMAN Total prob of N-in:        0.03542
+sp|P09603|CSF1_HUMAN	TMHMM2.0	outside	     1   495
+sp|P09603|CSF1_HUMAN	TMHMM2.0	TMhelix	   496   518
+sp|P09603|CSF1_HUMAN	TMHMM2.0	inside	   519   554
+
+# sp|P07333|CSF1R_HUMAN Length: 972
+# sp|P07333|CSF1R_HUMAN Number of predicted TMHs:  1
+# sp|P07333|CSF1R_HUMAN Exp number of AAs in TMHs: 37.53572
+# sp|P07333|CSF1R_HUMAN Exp number, first 60 AAs:  0.06539
+# sp|P07333|CSF1R_HUMAN Total prob of N-in:        0.00342
+sp|P07333|CSF1R_HUMAN	TMHMM2.0	outside	     1   514
+sp|P07333|CSF1R_HUMAN	TMHMM2.0	TMhelix	   515   537
+sp|P07333|CSF1R_HUMAN	TMHMM2.0	inside	   538   972
+
+# sp|P78423|X3CL1_HUMAN Length: 397
+# sp|P78423|X3CL1_HUMAN Number of predicted TMHs:  1
+# sp|P78423|X3CL1_HUMAN Exp number of AAs in TMHs: 28.50838
+# sp|P78423|X3CL1_HUMAN Exp number, first 60 AAs:  7.42186
+# sp|P78423|X3CL1_HUMAN Total prob of N-in:        0.17863
+sp|P78423|X3CL1_HUMAN	TMHMM2.0	outside	     1   342
+sp|P78423|X3CL1_HUMAN	TMHMM2.0	TMhelix	   343   362
+sp|P78423|X3CL1_HUMAN	TMHMM2.0	inside	   363   397
+
+# sp|O00548|DLL1_HUMAN Length: 723
+# sp|O00548|DLL1_HUMAN Number of predicted TMHs:  1
+# sp|O00548|DLL1_HUMAN Exp number of AAs in TMHs: 32.67977
+# sp|O00548|DLL1_HUMAN Exp number, first 60 AAs:  9.5468
+# sp|O00548|DLL1_HUMAN Total prob of N-in:        0.47525
+sp|O00548|DLL1_HUMAN	TMHMM2.0	outside	     1   544
+sp|O00548|DLL1_HUMAN	TMHMM2.0	TMhelix	   545   567
+sp|O00548|DLL1_HUMAN	TMHMM2.0	inside	   568   723
+
+# sp|Q14126|DSG2_HUMAN Length: 1118
+# sp|Q14126|DSG2_HUMAN Number of predicted TMHs:  2
+# sp|Q14126|DSG2_HUMAN Exp number of AAs in TMHs: 42.3823
+# sp|Q14126|DSG2_HUMAN Exp number, first 60 AAs:  20.80026
+# sp|Q14126|DSG2_HUMAN Total prob of N-in:        0.86757
+# sp|Q14126|DSG2_HUMAN POSSIBLE N-term signal sequence
+sp|Q14126|DSG2_HUMAN	TMHMM2.0	inside	     1     6
+sp|Q14126|DSG2_HUMAN	TMHMM2.0	TMhelix	     7    29
+sp|Q14126|DSG2_HUMAN	TMHMM2.0	outside	    30   612
+sp|Q14126|DSG2_HUMAN	TMHMM2.0	TMhelix	   613   635
+sp|Q14126|DSG2_HUMAN	TMHMM2.0	inside	   636  1118
+
+# sp|P01133|EGF_HUMAN Length: 1207
+# sp|P01133|EGF_HUMAN Number of predicted TMHs:  1
+# sp|P01133|EGF_HUMAN Exp number of AAs in TMHs: 22.39689
+# sp|P01133|EGF_HUMAN Exp number, first 60 AAs:  0.10264
+# sp|P01133|EGF_HUMAN Total prob of N-in:        0.00477
+sp|P01133|EGF_HUMAN	TMHMM2.0	outside	     1  1032
+sp|P01133|EGF_HUMAN	TMHMM2.0	TMhelix	  1033  1055
+sp|P01133|EGF_HUMAN	TMHMM2.0	inside	  1056  1207
+
+# sp|Q6UW88|EPGN_HUMAN Length: 154
+# sp|Q6UW88|EPGN_HUMAN Number of predicted TMHs:  1
+# sp|Q6UW88|EPGN_HUMAN Exp number of AAs in TMHs: 28.14867
+# sp|Q6UW88|EPGN_HUMAN Exp number, first 60 AAs:  5.49873
+# sp|Q6UW88|EPGN_HUMAN Total prob of N-in:        0.27387
+sp|Q6UW88|EPGN_HUMAN	TMHMM2.0	outside	     1   110
+sp|Q6UW88|EPGN_HUMAN	TMHMM2.0	TMhelix	   111   133
+sp|Q6UW88|EPGN_HUMAN	TMHMM2.0	inside	   134   154
+
+# sp|Q15303|ERBB4_HUMAN Length: 1308
+# sp|Q15303|ERBB4_HUMAN Number of predicted TMHs:  2
+# sp|Q15303|ERBB4_HUMAN Exp number of AAs in TMHs: 40.91945
+# sp|Q15303|ERBB4_HUMAN Exp number, first 60 AAs:  0.26361
+# sp|Q15303|ERBB4_HUMAN Total prob of N-in:        0.01706
+sp|Q15303|ERBB4_HUMAN	TMHMM2.0	outside	     1   652
+sp|Q15303|ERBB4_HUMAN	TMHMM2.0	TMhelix	   653   675
+sp|Q15303|ERBB4_HUMAN	TMHMM2.0	inside	   676   779
+sp|Q15303|ERBB4_HUMAN	TMHMM2.0	TMhelix	   780   799
+sp|Q15303|ERBB4_HUMAN	TMHMM2.0	outside	   800  1308
+
+# sp|O14944|EREG_HUMAN Length: 169
+# sp|O14944|EREG_HUMAN Number of predicted TMHs:  2
+# sp|O14944|EREG_HUMAN Exp number of AAs in TMHs: 40.8336
+# sp|O14944|EREG_HUMAN Exp number, first 60 AAs:  17.95965
+# sp|O14944|EREG_HUMAN Total prob of N-in:        0.84652
+# sp|O14944|EREG_HUMAN POSSIBLE N-term signal sequence
+sp|O14944|EREG_HUMAN	TMHMM2.0	inside	     1    12
+sp|O14944|EREG_HUMAN	TMHMM2.0	TMhelix	    13    35
+sp|O14944|EREG_HUMAN	TMHMM2.0	outside	    36   117
+sp|O14944|EREG_HUMAN	TMHMM2.0	TMhelix	   118   140
+sp|O14944|EREG_HUMAN	TMHMM2.0	inside	   141   169
+
+# sp|Q9Y624|JAM1_HUMAN Length: 299
+# sp|Q9Y624|JAM1_HUMAN Number of predicted TMHs:  2
+# sp|Q9Y624|JAM1_HUMAN Exp number of AAs in TMHs: 43.81112
+# sp|Q9Y624|JAM1_HUMAN Exp number, first 60 AAs:  20.68521
+# sp|Q9Y624|JAM1_HUMAN Total prob of N-in:        0.98020
+# sp|Q9Y624|JAM1_HUMAN POSSIBLE N-term signal sequence
+sp|Q9Y624|JAM1_HUMAN	TMHMM2.0	inside	     1    11
+sp|Q9Y624|JAM1_HUMAN	TMHMM2.0	TMhelix	    12    31
+sp|Q9Y624|JAM1_HUMAN	TMHMM2.0	outside	    32   238
+sp|Q9Y624|JAM1_HUMAN	TMHMM2.0	TMhelix	   239   261
+sp|Q9Y624|JAM1_HUMAN	TMHMM2.0	inside	   262   299
+
+# sp|P48023|TNFL6_HUMAN Length: 281
+# sp|P48023|TNFL6_HUMAN Number of predicted TMHs:  1
+# sp|P48023|TNFL6_HUMAN Exp number of AAs in TMHs: 22.71891
+# sp|P48023|TNFL6_HUMAN Exp number, first 60 AAs:  0.00771
+# sp|P48023|TNFL6_HUMAN Total prob of N-in:        0.95717
+sp|P48023|TNFL6_HUMAN	TMHMM2.0	inside	     1    79
+sp|P48023|TNFL6_HUMAN	TMHMM2.0	TMhelix	    80   102
+sp|P48023|TNFL6_HUMAN	TMHMM2.0	outside	   103   281
+
+# sp|P24071|FCAR_HUMAN Length: 287
+# sp|P24071|FCAR_HUMAN Number of predicted TMHs:  0
+# sp|P24071|FCAR_HUMAN Exp number of AAs in TMHs: 16.88847
+# sp|P24071|FCAR_HUMAN Exp number, first 60 AAs:  0.00910999999999999
+# sp|P24071|FCAR_HUMAN Total prob of N-in:        0.58294
+sp|P24071|FCAR_HUMAN	TMHMM2.0	outside	     1   287
+
+# sp|P08637|FCG3A_HUMAN Length: 254
+# sp|P08637|FCG3A_HUMAN Number of predicted TMHs:  1
+# sp|P08637|FCG3A_HUMAN Exp number of AAs in TMHs: 22.37365
+# sp|P08637|FCG3A_HUMAN Exp number, first 60 AAs:  0.03887
+# sp|P08637|FCG3A_HUMAN Total prob of N-in:        0.00795
+sp|P08637|FCG3A_HUMAN	TMHMM2.0	outside	     1   206
+sp|P08637|FCG3A_HUMAN	TMHMM2.0	TMhelix	   207   229
+sp|P08637|FCG3A_HUMAN	TMHMM2.0	inside	   230   254
+
+# sp|O75015|FCG3B_HUMAN Length: 233
+# sp|O75015|FCG3B_HUMAN Number of predicted TMHs:  1
+# sp|O75015|FCG3B_HUMAN Exp number of AAs in TMHs: 21.27423
+# sp|O75015|FCG3B_HUMAN Exp number, first 60 AAs:  0.04277
+# sp|O75015|FCG3B_HUMAN Total prob of N-in:        0.01024
+sp|O75015|FCG3B_HUMAN	TMHMM2.0	outside	     1   206
+sp|O75015|FCG3B_HUMAN	TMHMM2.0	TMhelix	   207   229
+sp|O75015|FCG3B_HUMAN	TMHMM2.0	inside	   230   233
+
+# sp|P49771|FLT3L_HUMAN Length: 235
+# sp|P49771|FLT3L_HUMAN Number of predicted TMHs:  1
+# sp|P49771|FLT3L_HUMAN Exp number of AAs in TMHs: 27.38253
+# sp|P49771|FLT3L_HUMAN Exp number, first 60 AAs:  5.62869
+# sp|P49771|FLT3L_HUMAN Total prob of N-in:        0.23908
+sp|P49771|FLT3L_HUMAN	TMHMM2.0	outside	     1   184
+sp|P49771|FLT3L_HUMAN	TMHMM2.0	TMhelix	   185   207
+sp|P49771|FLT3L_HUMAN	TMHMM2.0	inside	   208   235
+
+# sp|P07359|GP1BA_HUMAN Length: 652
+# sp|P07359|GP1BA_HUMAN Number of predicted TMHs:  1
+# sp|P07359|GP1BA_HUMAN Exp number of AAs in TMHs: 23.55178
+# sp|P07359|GP1BA_HUMAN Exp number, first 60 AAs:  0.00064
+# sp|P07359|GP1BA_HUMAN Total prob of N-in:        0.00004
+sp|P07359|GP1BA_HUMAN	TMHMM2.0	outside	     1   532
+sp|P07359|GP1BA_HUMAN	TMHMM2.0	TMhelix	   533   555
+sp|P07359|GP1BA_HUMAN	TMHMM2.0	inside	   556   652
+
+# sp|P40197|GPV_HUMAN Length: 560
+# sp|P40197|GPV_HUMAN Number of predicted TMHs:  1
+# sp|P40197|GPV_HUMAN Exp number of AAs in TMHs: 22.93036
+# sp|P40197|GPV_HUMAN Exp number, first 60 AAs:  0.13373
+# sp|P40197|GPV_HUMAN Total prob of N-in:        0.01099
+sp|P40197|GPV_HUMAN	TMHMM2.0	outside	     1   521
+sp|P40197|GPV_HUMAN	TMHMM2.0	TMhelix	   522   544
+sp|P40197|GPV_HUMAN	TMHMM2.0	inside	   545   560
+
+# sp|Q9HCN6|GPVI_HUMAN Length: 339
+# sp|Q9HCN6|GPVI_HUMAN Number of predicted TMHs:  1
+# sp|Q9HCN6|GPVI_HUMAN Exp number of AAs in TMHs: 19.61478
+# sp|Q9HCN6|GPVI_HUMAN Exp number, first 60 AAs:  0.01078
+# sp|Q9HCN6|GPVI_HUMAN Total prob of N-in:        0.14948
+sp|Q9HCN6|GPVI_HUMAN	TMHMM2.0	outside	     1   267
+sp|Q9HCN6|GPVI_HUMAN	TMHMM2.0	TMhelix	   268   287
+sp|Q9HCN6|GPVI_HUMAN	TMHMM2.0	inside	   288   339
+
+# sp|Q96D42|HAVR1_HUMAN Length: 364
+# sp|Q96D42|HAVR1_HUMAN Number of predicted TMHs:  1
+# sp|Q96D42|HAVR1_HUMAN Exp number of AAs in TMHs: 21.19341
+# sp|Q96D42|HAVR1_HUMAN Exp number, first 60 AAs:  0.05403
+# sp|Q96D42|HAVR1_HUMAN Total prob of N-in:        0.02508
+sp|Q96D42|HAVR1_HUMAN	TMHMM2.0	outside	     1   295
+sp|Q96D42|HAVR1_HUMAN	TMHMM2.0	TMhelix	   296   315
+sp|Q96D42|HAVR1_HUMAN	TMHMM2.0	inside	   316   364
+
+# sp|Q8TDQ0|HAVR2_HUMAN Length: 301
+# sp|Q8TDQ0|HAVR2_HUMAN Number of predicted TMHs:  1
+# sp|Q8TDQ0|HAVR2_HUMAN Exp number of AAs in TMHs: 23.74383
+# sp|Q8TDQ0|HAVR2_HUMAN Exp number, first 60 AAs:  0.5301
+# sp|Q8TDQ0|HAVR2_HUMAN Total prob of N-in:        0.06248
+sp|Q8TDQ0|HAVR2_HUMAN	TMHMM2.0	outside	     1   201
+sp|Q8TDQ0|HAVR2_HUMAN	TMHMM2.0	TMhelix	   202   224
+sp|Q8TDQ0|HAVR2_HUMAN	TMHMM2.0	inside	   225   301
+
+# sp|Q99075|HBEGF_HUMAN Length: 208
+# sp|Q99075|HBEGF_HUMAN Number of predicted TMHs:  1
+# sp|Q99075|HBEGF_HUMAN Exp number of AAs in TMHs: 35.28688
+# sp|Q99075|HBEGF_HUMAN Exp number, first 60 AAs:  12.47356
+# sp|Q99075|HBEGF_HUMAN Total prob of N-in:        0.31210
+# sp|Q99075|HBEGF_HUMAN POSSIBLE N-term signal sequence
+sp|Q99075|HBEGF_HUMAN	TMHMM2.0	outside	     1   161
+sp|Q99075|HBEGF_HUMAN	TMHMM2.0	TMhelix	   162   184
+sp|Q99075|HBEGF_HUMAN	TMHMM2.0	inside	   185   208
+
+# sp|P05362|ICAM1_HUMAN Length: 532
+# sp|P05362|ICAM1_HUMAN Number of predicted TMHs:  1
+# sp|P05362|ICAM1_HUMAN Exp number of AAs in TMHs: 23.26693
+# sp|P05362|ICAM1_HUMAN Exp number, first 60 AAs:  0.37284
+# sp|P05362|ICAM1_HUMAN Total prob of N-in:        0.01802
+sp|P05362|ICAM1_HUMAN	TMHMM2.0	outside	     1   480
+sp|P05362|ICAM1_HUMAN	TMHMM2.0	TMhelix	   481   503
+sp|P05362|ICAM1_HUMAN	TMHMM2.0	inside	   504   532
+
+# sp|O75144|ICOSL_HUMAN Length: 302
+# sp|O75144|ICOSL_HUMAN Number of predicted TMHs:  1
+# sp|O75144|ICOSL_HUMAN Exp number of AAs in TMHs: 22.54724
+# sp|O75144|ICOSL_HUMAN Exp number, first 60 AAs:  0.00048
+# sp|O75144|ICOSL_HUMAN Total prob of N-in:        0.00408
+sp|O75144|ICOSL_HUMAN	TMHMM2.0	outside	     1   253
+sp|O75144|ICOSL_HUMAN	TMHMM2.0	TMhelix	   254   276
+sp|O75144|ICOSL_HUMAN	TMHMM2.0	inside	   277   302
+
+# sp|P48551|INAR2_HUMAN Length: 515
+# sp|P48551|INAR2_HUMAN Number of predicted TMHs:  1
+# sp|P48551|INAR2_HUMAN Exp number of AAs in TMHs: 43.11609
+# sp|P48551|INAR2_HUMAN Exp number, first 60 AAs:  21.17707
+# sp|P48551|INAR2_HUMAN Total prob of N-in:        0.78136
+# sp|P48551|INAR2_HUMAN POSSIBLE N-term signal sequence
+sp|P48551|INAR2_HUMAN	TMHMM2.0	inside	     1     6
+sp|P48551|INAR2_HUMAN	TMHMM2.0	TMhelix	     7    29
+sp|P48551|INAR2_HUMAN	TMHMM2.0	outside	    30   515
+
+# sp|Q13261|I15RA_HUMAN Length: 267
+# sp|Q13261|I15RA_HUMAN Number of predicted TMHs:  0
+# sp|Q13261|I15RA_HUMAN Exp number of AAs in TMHs: 7.66402
+# sp|Q13261|I15RA_HUMAN Exp number, first 60 AAs:  1.21196
+# sp|Q13261|I15RA_HUMAN Total prob of N-in:        0.30088
+sp|Q13261|I15RA_HUMAN	TMHMM2.0	outside	     1   267
+
+# sp|P27930|IL1R2_HUMAN Length: 398
+# sp|P27930|IL1R2_HUMAN Number of predicted TMHs:  1
+# sp|P27930|IL1R2_HUMAN Exp number of AAs in TMHs: 24.1876
+# sp|P27930|IL1R2_HUMAN Exp number, first 60 AAs:  1.25564
+# sp|P27930|IL1R2_HUMAN Total prob of N-in:        0.05466
+sp|P27930|IL1R2_HUMAN	TMHMM2.0	outside	     1   346
+sp|P27930|IL1R2_HUMAN	TMHMM2.0	TMhelix	   347   369
+sp|P27930|IL1R2_HUMAN	TMHMM2.0	inside	   370   398
+
+# sp|Q5VWK5|IL23R_HUMAN Length: 629
+# sp|Q5VWK5|IL23R_HUMAN Number of predicted TMHs:  2
+# sp|Q5VWK5|IL23R_HUMAN Exp number of AAs in TMHs: 39.3922200000002
+# sp|Q5VWK5|IL23R_HUMAN Exp number, first 60 AAs:  16.38701
+# sp|Q5VWK5|IL23R_HUMAN Total prob of N-in:        0.57496
+# sp|Q5VWK5|IL23R_HUMAN POSSIBLE N-term signal sequence
+sp|Q5VWK5|IL23R_HUMAN	TMHMM2.0	inside	     1    12
+sp|Q5VWK5|IL23R_HUMAN	TMHMM2.0	TMhelix	    13    35
+sp|Q5VWK5|IL23R_HUMAN	TMHMM2.0	outside	    36   353
+sp|Q5VWK5|IL23R_HUMAN	TMHMM2.0	TMhelix	   354   376
+sp|Q5VWK5|IL23R_HUMAN	TMHMM2.0	inside	   377   629
+
+# sp|P08887|IL6RA_HUMAN Length: 468
+# sp|P08887|IL6RA_HUMAN Number of predicted TMHs:  1
+# sp|P08887|IL6RA_HUMAN Exp number of AAs in TMHs: 24.79102
+# sp|P08887|IL6RA_HUMAN Exp number, first 60 AAs:  2.46424
+# sp|P08887|IL6RA_HUMAN Total prob of N-in:        0.12612
+sp|P08887|IL6RA_HUMAN	TMHMM2.0	outside	     1   363
+sp|P08887|IL6RA_HUMAN	TMHMM2.0	TMhelix	   364   386
+sp|P08887|IL6RA_HUMAN	TMHMM2.0	inside	   387   468
+
+# tr|Q17RA0|Q17RA0_HUMAN Length: 918
+# tr|Q17RA0|Q17RA0_HUMAN Number of predicted TMHs:  1
+# tr|Q17RA0|Q17RA0_HUMAN Exp number of AAs in TMHs: 21.96889
+# tr|Q17RA0|Q17RA0_HUMAN Exp number, first 60 AAs:  0.02378
+# tr|Q17RA0|Q17RA0_HUMAN Total prob of N-in:        0.00205
+tr|Q17RA0|Q17RA0_HUMAN	TMHMM2.0	outside	     1   619
+tr|Q17RA0|Q17RA0_HUMAN	TMHMM2.0	TMhelix	   620   642
+tr|Q17RA0|Q17RA0_HUMAN	TMHMM2.0	inside	   643   918
+
+# sp|P11215|ITAM_HUMAN Length: 1152
+# sp|P11215|ITAM_HUMAN Number of predicted TMHs:  1
+# sp|P11215|ITAM_HUMAN Exp number of AAs in TMHs: 22.62298
+# sp|P11215|ITAM_HUMAN Exp number, first 60 AAs:  0.04388
+# sp|P11215|ITAM_HUMAN Total prob of N-in:        0.00236
+sp|P11215|ITAM_HUMAN	TMHMM2.0	outside	     1  1108
+sp|P11215|ITAM_HUMAN	TMHMM2.0	TMhelix	  1109  1131
+sp|P11215|ITAM_HUMAN	TMHMM2.0	inside	  1132  1152
+
+# sp|P05107|ITB2_HUMAN Length: 769
+# sp|P05107|ITB2_HUMAN Number of predicted TMHs:  1
+# sp|P05107|ITB2_HUMAN Exp number of AAs in TMHs: 22.96086
+# sp|P05107|ITB2_HUMAN Exp number, first 60 AAs:  0.05869
+# sp|P05107|ITB2_HUMAN Total prob of N-in:        0.00298
+sp|P05107|ITB2_HUMAN	TMHMM2.0	outside	     1   700
+sp|P05107|ITB2_HUMAN	TMHMM2.0	TMhelix	   701   723
+sp|P05107|ITB2_HUMAN	TMHMM2.0	inside	   724   769
+
+# sp|P78504|JAG1_HUMAN Length: 1218
+# sp|P78504|JAG1_HUMAN Number of predicted TMHs:  1
+# sp|P78504|JAG1_HUMAN Exp number of AAs in TMHs: 25.24996
+# sp|P78504|JAG1_HUMAN Exp number, first 60 AAs:  2.51264
+# sp|P78504|JAG1_HUMAN Total prob of N-in:        0.11274
+sp|P78504|JAG1_HUMAN	TMHMM2.0	outside	     1  1068
+sp|P78504|JAG1_HUMAN	TMHMM2.0	TMhelix	  1069  1091
+sp|P78504|JAG1_HUMAN	TMHMM2.0	inside	  1092  1218
+
+# sp|P35968|VGFR2_HUMAN Length: 1356
+# sp|P35968|VGFR2_HUMAN Number of predicted TMHs:  2
+# sp|P35968|VGFR2_HUMAN Exp number of AAs in TMHs: 40.5714000000001
+# sp|P35968|VGFR2_HUMAN Exp number, first 60 AAs:  1.07111
+# sp|P35968|VGFR2_HUMAN Total prob of N-in:        0.05643
+sp|P35968|VGFR2_HUMAN	TMHMM2.0	outside	     1   733
+sp|P35968|VGFR2_HUMAN	TMHMM2.0	TMhelix	   734   756
+sp|P35968|VGFR2_HUMAN	TMHMM2.0	inside	   757   762
+sp|P35968|VGFR2_HUMAN	TMHMM2.0	TMhelix	   763   785
+sp|P35968|VGFR2_HUMAN	TMHMM2.0	outside	   786  1356
+
+# sp|P10721|KIT_HUMAN Length: 976
+# sp|P10721|KIT_HUMAN Number of predicted TMHs:  2
+# sp|P10721|KIT_HUMAN Exp number of AAs in TMHs: 43.5652800000001
+# sp|P10721|KIT_HUMAN Exp number, first 60 AAs:  0.03721
+# sp|P10721|KIT_HUMAN Total prob of N-in:        0.03165
+sp|P10721|KIT_HUMAN	TMHMM2.0	outside	     1   520
+sp|P10721|KIT_HUMAN	TMHMM2.0	TMhelix	   521   543
+sp|P10721|KIT_HUMAN	TMHMM2.0	inside	   544   652
+sp|P10721|KIT_HUMAN	TMHMM2.0	TMhelix	   653   675
+sp|P10721|KIT_HUMAN	TMHMM2.0	outside	   676   976
+
+# sp|P21583|SCF_HUMAN Length: 273
+# sp|P21583|SCF_HUMAN Number of predicted TMHs:  1
+# sp|P21583|SCF_HUMAN Exp number of AAs in TMHs: 27.15365
+# sp|P21583|SCF_HUMAN Exp number, first 60 AAs:  4.27015
+# sp|P21583|SCF_HUMAN Total prob of N-in:        0.19208
+sp|P21583|SCF_HUMAN	TMHMM2.0	outside	     1   214
+sp|P21583|SCF_HUMAN	TMHMM2.0	TMhelix	   215   237
+sp|P21583|SCF_HUMAN	TMHMM2.0	inside	   238   273
+
+# sp|Q9UEF7|KLOT_HUMAN Length: 1012
+# sp|Q9UEF7|KLOT_HUMAN Number of predicted TMHs:  1
+# sp|Q9UEF7|KLOT_HUMAN Exp number of AAs in TMHs: 22.12043
+# sp|Q9UEF7|KLOT_HUMAN Exp number, first 60 AAs:  0.0072
+# sp|Q9UEF7|KLOT_HUMAN Total prob of N-in:        0.00056
+sp|Q9UEF7|KLOT_HUMAN	TMHMM2.0	outside	     1   981
+sp|Q9UEF7|KLOT_HUMAN	TMHMM2.0	TMhelix	   982  1004
+sp|Q9UEF7|KLOT_HUMAN	TMHMM2.0	inside	  1005  1012
+
+# sp|P32004|L1CAM_HUMAN Length: 1257
+# sp|P32004|L1CAM_HUMAN Number of predicted TMHs:  1
+# sp|P32004|L1CAM_HUMAN Exp number of AAs in TMHs: 23.31608
+# sp|P32004|L1CAM_HUMAN Exp number, first 60 AAs:  0.58841
+# sp|P32004|L1CAM_HUMAN Total prob of N-in:        0.03117
+sp|P32004|L1CAM_HUMAN	TMHMM2.0	outside	     1  1120
+sp|P32004|L1CAM_HUMAN	TMHMM2.0	TMhelix	  1121  1143
+sp|P32004|L1CAM_HUMAN	TMHMM2.0	inside	  1144  1257
+
+# sp|P18627|LAG3_HUMAN Length: 525
+# sp|P18627|LAG3_HUMAN Number of predicted TMHs:  1
+# sp|P18627|LAG3_HUMAN Exp number of AAs in TMHs: 23.02668
+# sp|P18627|LAG3_HUMAN Exp number, first 60 AAs:  0.00274
+# sp|P18627|LAG3_HUMAN Total prob of N-in:        0.00036
+sp|P18627|LAG3_HUMAN	TMHMM2.0	outside	     1   451
+sp|P18627|LAG3_HUMAN	TMHMM2.0	TMhelix	   452   474
+sp|P18627|LAG3_HUMAN	TMHMM2.0	inside	   475   525
+
+# sp|P01374|TNFB_HUMAN Length: 205
+# sp|P01374|TNFB_HUMAN Number of predicted TMHs:  1
+# sp|P01374|TNFB_HUMAN Exp number of AAs in TMHs: 26.55853
+# sp|P01374|TNFB_HUMAN Exp number, first 60 AAs:  21.86664
+# sp|P01374|TNFB_HUMAN Total prob of N-in:        0.93543
+# sp|P01374|TNFB_HUMAN POSSIBLE N-term signal sequence
+sp|P01374|TNFB_HUMAN	TMHMM2.0	inside	     1     6
+sp|P01374|TNFB_HUMAN	TMHMM2.0	TMhelix	     7    29
+sp|P01374|TNFB_HUMAN	TMHMM2.0	outside	    30   205
+
+# sp|Q06643|TNFC_HUMAN Length: 244
+# sp|Q06643|TNFC_HUMAN Number of predicted TMHs:  1
+# sp|Q06643|TNFC_HUMAN Exp number of AAs in TMHs: 23.22363
+# sp|Q06643|TNFC_HUMAN Exp number, first 60 AAs:  23.12393
+# sp|Q06643|TNFC_HUMAN Total prob of N-in:        0.82166
+# sp|Q06643|TNFC_HUMAN POSSIBLE N-term signal sequence
+sp|Q06643|TNFC_HUMAN	TMHMM2.0	inside	     1    20
+sp|Q06643|TNFC_HUMAN	TMHMM2.0	TMhelix	    21    43
+sp|Q06643|TNFC_HUMAN	TMHMM2.0	outside	    44   244
+
+# sp|Q9Y5Y7|LYVE1_HUMAN Length: 322
+# sp|Q9Y5Y7|LYVE1_HUMAN Number of predicted TMHs:  1
+# sp|Q9Y5Y7|LYVE1_HUMAN Exp number of AAs in TMHs: 23.31261
+# sp|Q9Y5Y7|LYVE1_HUMAN Exp number, first 60 AAs:  0.605829999999999
+# sp|Q9Y5Y7|LYVE1_HUMAN Total prob of N-in:        0.04484
+sp|Q9Y5Y7|LYVE1_HUMAN	TMHMM2.0	outside	     1   235
+sp|Q9Y5Y7|LYVE1_HUMAN	TMHMM2.0	TMhelix	   236   258
+sp|Q9Y5Y7|LYVE1_HUMAN	TMHMM2.0	inside	   259   322
+
+# sp|Q16820|MEP1B_HUMAN Length: 701
+# sp|Q16820|MEP1B_HUMAN Number of predicted TMHs:  1
+# sp|Q16820|MEP1B_HUMAN Exp number of AAs in TMHs: 25.55131
+# sp|Q16820|MEP1B_HUMAN Exp number, first 60 AAs:  2.42205
+# sp|Q16820|MEP1B_HUMAN Total prob of N-in:        0.12388
+sp|Q16820|MEP1B_HUMAN	TMHMM2.0	outside	     1   653
+sp|Q16820|MEP1B_HUMAN	TMHMM2.0	TMhelix	   654   676
+sp|Q16820|MEP1B_HUMAN	TMHMM2.0	inside	   677   701
+
+# sp|Q12866|MERTK_HUMAN Length: 999
+# sp|Q12866|MERTK_HUMAN Number of predicted TMHs:  1
+# sp|Q12866|MERTK_HUMAN Exp number of AAs in TMHs: 27.10552
+# sp|Q12866|MERTK_HUMAN Exp number, first 60 AAs:  0.1096
+# sp|Q12866|MERTK_HUMAN Total prob of N-in:        0.00206
+sp|Q12866|MERTK_HUMAN	TMHMM2.0	outside	     1   501
+sp|Q12866|MERTK_HUMAN	TMHMM2.0	TMhelix	   502   524
+sp|Q12866|MERTK_HUMAN	TMHMM2.0	inside	   525   999
+
+# sp|Q29983|MICA_HUMAN Length: 383
+# sp|Q29983|MICA_HUMAN Number of predicted TMHs:  1
+# sp|Q29983|MICA_HUMAN Exp number of AAs in TMHs: 21.98859
+# sp|Q29983|MICA_HUMAN Exp number, first 60 AAs:  0.587039999999999
+# sp|Q29983|MICA_HUMAN Total prob of N-in:        0.02939
+sp|Q29983|MICA_HUMAN	TMHMM2.0	outside	     1   305
+sp|Q29983|MICA_HUMAN	TMHMM2.0	TMhelix	   306   328
+sp|Q29983|MICA_HUMAN	TMHMM2.0	inside	   329   383
+
+# sp|Q29980|MICB_HUMAN Length: 383
+# sp|Q29980|MICB_HUMAN Number of predicted TMHs:  0
+# sp|Q29980|MICB_HUMAN Exp number of AAs in TMHs: 16.45019
+# sp|Q29980|MICB_HUMAN Exp number, first 60 AAs:  1.72768
+# sp|Q29980|MICB_HUMAN Total prob of N-in:        0.08705
+sp|Q29980|MICB_HUMAN	TMHMM2.0	outside	     1   383
+
+# sp|P46531|NOTC1_HUMAN Length: 2555
+# sp|P46531|NOTC1_HUMAN Number of predicted TMHs:  0
+# sp|P46531|NOTC1_HUMAN Exp number of AAs in TMHs: 24.4689699999999
+# sp|P46531|NOTC1_HUMAN Exp number, first 60 AAs:  0.02011
+# sp|P46531|NOTC1_HUMAN Total prob of N-in:        0.00112
+sp|P46531|NOTC1_HUMAN	TMHMM2.0	outside	     1  2555
+
+# sp|Q04721|NOTC2_HUMAN Length: 2471
+# sp|Q04721|NOTC2_HUMAN Number of predicted TMHs:  2
+# sp|Q04721|NOTC2_HUMAN Exp number of AAs in TMHs: 52.8606700000003
+# sp|Q04721|NOTC2_HUMAN Exp number, first 60 AAs:  8.75136
+# sp|Q04721|NOTC2_HUMAN Total prob of N-in:        0.44600
+sp|Q04721|NOTC2_HUMAN	TMHMM2.0	outside	     1  1648
+sp|Q04721|NOTC2_HUMAN	TMHMM2.0	TMhelix	  1649  1671
+sp|Q04721|NOTC2_HUMAN	TMHMM2.0	inside	  1672  1677
+sp|Q04721|NOTC2_HUMAN	TMHMM2.0	TMhelix	  1678  1700
+sp|Q04721|NOTC2_HUMAN	TMHMM2.0	outside	  1701  2471
+
+# sp|Q9UM47|NOTC3_HUMAN Length: 2321
+# sp|Q9UM47|NOTC3_HUMAN Number of predicted TMHs:  0
+# sp|Q9UM47|NOTC3_HUMAN Exp number of AAs in TMHs: 15.33193
+# sp|Q9UM47|NOTC3_HUMAN Exp number, first 60 AAs:  0.06369
+# sp|Q9UM47|NOTC3_HUMAN Total prob of N-in:        0.00316
+sp|Q9UM47|NOTC3_HUMAN	TMHMM2.0	outside	     1  2321
+
+# sp|Q99466|NOTC4_HUMAN Length: 2003
+# sp|Q99466|NOTC4_HUMAN Number of predicted TMHs:  0
+# sp|Q99466|NOTC4_HUMAN Exp number of AAs in TMHs: 43.4667900000002
+# sp|Q99466|NOTC4_HUMAN Exp number, first 60 AAs:  12.91755
+# sp|Q99466|NOTC4_HUMAN Total prob of N-in:        0.68099
+# sp|Q99466|NOTC4_HUMAN POSSIBLE N-term signal sequence
+sp|Q99466|NOTC4_HUMAN	TMHMM2.0	outside	     1  2003
+
+# sp|O14511|NRG2_HUMAN Length: 850
+# sp|O14511|NRG2_HUMAN Number of predicted TMHs:  1
+# sp|O14511|NRG2_HUMAN Exp number of AAs in TMHs: 23.0253
+# sp|O14511|NRG2_HUMAN Exp number, first 60 AAs:  0
+# sp|O14511|NRG2_HUMAN Total prob of N-in:        0.06218
+sp|O14511|NRG2_HUMAN	TMHMM2.0	outside	     1   405
+sp|O14511|NRG2_HUMAN	TMHMM2.0	TMhelix	   406   428
+sp|O14511|NRG2_HUMAN	TMHMM2.0	inside	   429   850
+
+# sp|P78380|OLR1_HUMAN Length: 273
+# sp|P78380|OLR1_HUMAN Number of predicted TMHs:  1
+# sp|P78380|OLR1_HUMAN Exp number of AAs in TMHs: 23.17723
+# sp|P78380|OLR1_HUMAN Exp number, first 60 AAs:  23.10031
+# sp|P78380|OLR1_HUMAN Total prob of N-in:        0.85033
+# sp|P78380|OLR1_HUMAN POSSIBLE N-term signal sequence
+sp|P78380|OLR1_HUMAN	TMHMM2.0	inside	     1    33
+sp|P78380|OLR1_HUMAN	TMHMM2.0	TMhelix	    34    56
+sp|P78380|OLR1_HUMAN	TMHMM2.0	outside	    57   273
+
+# sp|Q9NPG4|PCD12_HUMAN Length: 1184
+# sp|Q9NPG4|PCD12_HUMAN Number of predicted TMHs:  1
+# sp|Q9NPG4|PCD12_HUMAN Exp number of AAs in TMHs: 23.40612
+# sp|Q9NPG4|PCD12_HUMAN Exp number, first 60 AAs:  0.43167
+# sp|Q9NPG4|PCD12_HUMAN Total prob of N-in:        0.01932
+sp|Q9NPG4|PCD12_HUMAN	TMHMM2.0	outside	     1   715
+sp|Q9NPG4|PCD12_HUMAN	TMHMM2.0	TMhelix	   716   738
+sp|Q9NPG4|PCD12_HUMAN	TMHMM2.0	inside	   739  1184
+
+# sp|P16284|PECA1_HUMAN Length: 738
+# sp|P16284|PECA1_HUMAN Number of predicted TMHs:  1
+# sp|P16284|PECA1_HUMAN Exp number of AAs in TMHs: 25.1087
+# sp|P16284|PECA1_HUMAN Exp number, first 60 AAs:  2.32733
+# sp|P16284|PECA1_HUMAN Total prob of N-in:        0.11153
+sp|P16284|PECA1_HUMAN	TMHMM2.0	outside	     1   602
+sp|P16284|PECA1_HUMAN	TMHMM2.0	TMhelix	   603   625
+sp|P16284|PECA1_HUMAN	TMHMM2.0	inside	   626   738
+
+# tr|Q7KYZ4|Q7KYZ4_HUMAN Length: 89
+# tr|Q7KYZ4|Q7KYZ4_HUMAN Number of predicted TMHs:  0
+# tr|Q7KYZ4|Q7KYZ4_HUMAN Exp number of AAs in TMHs: 0
+# tr|Q7KYZ4|Q7KYZ4_HUMAN Exp number, first 60 AAs:  0
+# tr|Q7KYZ4|Q7KYZ4_HUMAN Total prob of N-in:        0.04641
+tr|Q7KYZ4|Q7KYZ4_HUMAN	TMHMM2.0	outside	     1    89
+
+# sp|P18827|SDC1_HUMAN Length: 310
+# sp|P18827|SDC1_HUMAN Number of predicted TMHs:  1
+# sp|P18827|SDC1_HUMAN Exp number of AAs in TMHs: 30.12021
+# sp|P18827|SDC1_HUMAN Exp number, first 60 AAs:  7.56453
+# sp|P18827|SDC1_HUMAN Total prob of N-in:        0.38185
+sp|P18827|SDC1_HUMAN	TMHMM2.0	outside	     1   253
+sp|P18827|SDC1_HUMAN	TMHMM2.0	TMhelix	   254   276
+sp|P18827|SDC1_HUMAN	TMHMM2.0	inside	   277   310
+
+# sp|P31431|SDC4_HUMAN Length: 198
+# sp|P31431|SDC4_HUMAN Number of predicted TMHs:  1
+# sp|P31431|SDC4_HUMAN Exp number of AAs in TMHs: 23.06061
+# sp|P31431|SDC4_HUMAN Exp number, first 60 AAs:  0.28956
+# sp|P31431|SDC4_HUMAN Total prob of N-in:        0.03645
+sp|P31431|SDC4_HUMAN	TMHMM2.0	outside	     1   145
+sp|P31431|SDC4_HUMAN	TMHMM2.0	TMhelix	   146   168
+sp|P31431|SDC4_HUMAN	TMHMM2.0	inside	   169   198
+
+# sp|P14151|LYAM1_HUMAN Length: 372
+# sp|P14151|LYAM1_HUMAN Number of predicted TMHs:  1
+# sp|P14151|LYAM1_HUMAN Exp number of AAs in TMHs: 22.69499
+# sp|P14151|LYAM1_HUMAN Exp number, first 60 AAs:  0.09273
+# sp|P14151|LYAM1_HUMAN Total prob of N-in:        0.01146
+sp|P14151|LYAM1_HUMAN	TMHMM2.0	outside	     1   332
+sp|P14151|LYAM1_HUMAN	TMHMM2.0	TMhelix	   333   355
+sp|P14151|LYAM1_HUMAN	TMHMM2.0	inside	   356   372
+
+# sp|Q92854|SEM4D_HUMAN Length: 862
+# sp|Q92854|SEM4D_HUMAN Number of predicted TMHs:  2
+# sp|Q92854|SEM4D_HUMAN Exp number of AAs in TMHs: 41.545
+# sp|Q92854|SEM4D_HUMAN Exp number, first 60 AAs:  20.28102
+# sp|Q92854|SEM4D_HUMAN Total prob of N-in:        0.97853
+# sp|Q92854|SEM4D_HUMAN POSSIBLE N-term signal sequence
+sp|Q92854|SEM4D_HUMAN	TMHMM2.0	inside	     1     6
+sp|Q92854|SEM4D_HUMAN	TMHMM2.0	TMhelix	     7    26
+sp|Q92854|SEM4D_HUMAN	TMHMM2.0	outside	    27   733
+sp|Q92854|SEM4D_HUMAN	TMHMM2.0	TMhelix	   734   756
+sp|Q92854|SEM4D_HUMAN	TMHMM2.0	inside	   757   862
+
+# sp|P78324|SHPS1_HUMAN Length: 504
+# sp|P78324|SHPS1_HUMAN Number of predicted TMHs:  1
+# sp|P78324|SHPS1_HUMAN Exp number of AAs in TMHs: 23.85876
+# sp|P78324|SHPS1_HUMAN Exp number, first 60 AAs:  1.00876
+# sp|P78324|SHPS1_HUMAN Total prob of N-in:        0.04704
+sp|P78324|SHPS1_HUMAN	TMHMM2.0	outside	     1   371
+sp|P78324|SHPS1_HUMAN	TMHMM2.0	TMhelix	   372   394
+sp|P78324|SHPS1_HUMAN	TMHMM2.0	inside	   395   504
+
+# sp|Q92673|SORL_HUMAN Length: 2214
+# sp|Q92673|SORL_HUMAN Number of predicted TMHs:  1
+# sp|Q92673|SORL_HUMAN Exp number of AAs in TMHs: 38.52544
+# sp|Q92673|SORL_HUMAN Exp number, first 60 AAs:  15.65038
+# sp|Q92673|SORL_HUMAN Total prob of N-in:        0.73972
+# sp|Q92673|SORL_HUMAN POSSIBLE N-term signal sequence
+sp|Q92673|SORL_HUMAN	TMHMM2.0	outside	     1  2135
+sp|Q92673|SORL_HUMAN	TMHMM2.0	TMhelix	  2136  2158
+sp|Q92673|SORL_HUMAN	TMHMM2.0	inside	  2159  2214
+
+# sp|Q02763|TIE2_HUMAN Length: 1124
+# sp|Q02763|TIE2_HUMAN Number of predicted TMHs:  1
+# sp|Q02763|TIE2_HUMAN Exp number of AAs in TMHs: 33.1897500000001
+# sp|Q02763|TIE2_HUMAN Exp number, first 60 AAs:  8.10723
+# sp|Q02763|TIE2_HUMAN Total prob of N-in:        0.36775
+sp|Q02763|TIE2_HUMAN	TMHMM2.0	outside	     1   747
+sp|Q02763|TIE2_HUMAN	TMHMM2.0	TMhelix	   748   770
+sp|Q02763|TIE2_HUMAN	TMHMM2.0	inside	   771  1124
+
+# sp|P01135|TGFA_HUMAN Length: 160
+# sp|P01135|TGFA_HUMAN Number of predicted TMHs:  1
+# sp|P01135|TGFA_HUMAN Exp number of AAs in TMHs: 28.28296
+# sp|P01135|TGFA_HUMAN Exp number, first 60 AAs:  5.47721
+# sp|P01135|TGFA_HUMAN Total prob of N-in:        0.28228
+sp|P01135|TGFA_HUMAN	TMHMM2.0	outside	     1    98
+sp|P01135|TGFA_HUMAN	TMHMM2.0	TMhelix	    99   121
+sp|P01135|TGFA_HUMAN	TMHMM2.0	inside	   122   160
+
+# sp|Q96H15|TIMD4_HUMAN Length: 378
+# sp|Q96H15|TIMD4_HUMAN Number of predicted TMHs:  1
+# sp|Q96H15|TIMD4_HUMAN Exp number of AAs in TMHs: 24.45213
+# sp|Q96H15|TIMD4_HUMAN Exp number, first 60 AAs:  1.76079
+# sp|Q96H15|TIMD4_HUMAN Total prob of N-in:        0.08106
+sp|Q96H15|TIMD4_HUMAN	TMHMM2.0	outside	     1   313
+sp|Q96H15|TIMD4_HUMAN	TMHMM2.0	TMhelix	   314   336
+sp|Q96H15|TIMD4_HUMAN	TMHMM2.0	inside	   337   378
+
+# sp|P01375|TNFA_HUMAN Length: 233
+# sp|P01375|TNFA_HUMAN Number of predicted TMHs:  1
+# sp|P01375|TNFA_HUMAN Exp number of AAs in TMHs: 22.92024
+# sp|P01375|TNFA_HUMAN Exp number, first 60 AAs:  22.90493
+# sp|P01375|TNFA_HUMAN Total prob of N-in:        0.94794
+# sp|P01375|TNFA_HUMAN POSSIBLE N-term signal sequence
+sp|P01375|TNFA_HUMAN	TMHMM2.0	inside	     1    34
+sp|P01375|TNFA_HUMAN	TMHMM2.0	TMhelix	    35    57
+sp|P01375|TNFA_HUMAN	TMHMM2.0	outside	    58   233
+
+# sp|P19438|TNR1A_HUMAN Length: 455
+# sp|P19438|TNR1A_HUMAN Number of predicted TMHs:  2
+# sp|P19438|TNR1A_HUMAN Exp number of AAs in TMHs: 44.8546400000001
+# sp|P19438|TNR1A_HUMAN Exp number, first 60 AAs:  21.88785
+# sp|P19438|TNR1A_HUMAN Total prob of N-in:        0.07135
+# sp|P19438|TNR1A_HUMAN POSSIBLE N-term signal sequence
+sp|P19438|TNR1A_HUMAN	TMHMM2.0	outside	     1     9
+sp|P19438|TNR1A_HUMAN	TMHMM2.0	TMhelix	    10    32
+sp|P19438|TNR1A_HUMAN	TMHMM2.0	inside	    33   211
+sp|P19438|TNR1A_HUMAN	TMHMM2.0	TMhelix	   212   234
+sp|P19438|TNR1A_HUMAN	TMHMM2.0	outside	   235   455
+
+# sp|P20333|TNR1B_HUMAN Length: 461
+# sp|P20333|TNR1B_HUMAN Number of predicted TMHs:  1
+# sp|P20333|TNR1B_HUMAN Exp number of AAs in TMHs: 26.24911
+# sp|P20333|TNR1B_HUMAN Exp number, first 60 AAs:  3.81121
+# sp|P20333|TNR1B_HUMAN Total prob of N-in:        0.17510
+sp|P20333|TNR1B_HUMAN	TMHMM2.0	outside	     1   257
+sp|P20333|TNR1B_HUMAN	TMHMM2.0	TMhelix	   258   280
+sp|P20333|TNR1B_HUMAN	TMHMM2.0	inside	   281   461
+
+# sp|O14788|TNF11_HUMAN Length: 317
+# sp|O14788|TNF11_HUMAN Number of predicted TMHs:  1
+# sp|O14788|TNF11_HUMAN Exp number of AAs in TMHs: 22.36055
+# sp|O14788|TNF11_HUMAN Exp number, first 60 AAs:  12.53783
+# sp|O14788|TNF11_HUMAN Total prob of N-in:        0.89741
+# sp|O14788|TNF11_HUMAN POSSIBLE N-term signal sequence
+sp|O14788|TNF11_HUMAN	TMHMM2.0	inside	     1    47
+sp|O14788|TNF11_HUMAN	TMHMM2.0	TMhelix	    48    70
+sp|O14788|TNF11_HUMAN	TMHMM2.0	outside	    71   317
+
+# sp|Q9Y275|TN13B_HUMAN Length: 285
+# sp|Q9Y275|TN13B_HUMAN Number of predicted TMHs:  1
+# sp|Q9Y275|TN13B_HUMAN Exp number of AAs in TMHs: 22.35657
+# sp|Q9Y275|TN13B_HUMAN Exp number, first 60 AAs:  12.44118
+# sp|Q9Y275|TN13B_HUMAN Total prob of N-in:        0.92898
+# sp|Q9Y275|TN13B_HUMAN POSSIBLE N-term signal sequence
+sp|Q9Y275|TN13B_HUMAN	TMHMM2.0	inside	     1    47
+sp|Q9Y275|TN13B_HUMAN	TMHMM2.0	TMhelix	    48    70
+sp|Q9Y275|TN13B_HUMAN	TMHMM2.0	outside	    71   285
+
+# sp|Q9BZM5|ULBP2_HUMAN Length: 246
+# sp|Q9BZM5|ULBP2_HUMAN Number of predicted TMHs:  1
+# sp|Q9BZM5|ULBP2_HUMAN Exp number of AAs in TMHs: 31.34989
+# sp|Q9BZM5|ULBP2_HUMAN Exp number, first 60 AAs:  5.08604
+# sp|Q9BZM5|ULBP2_HUMAN Total prob of N-in:        0.37142
+sp|Q9BZM5|ULBP2_HUMAN	TMHMM2.0	outside	     1   222
+sp|Q9BZM5|ULBP2_HUMAN	TMHMM2.0	TMhelix	   223   245
+sp|Q9BZM5|ULBP2_HUMAN	TMHMM2.0	inside	   246   246
+
+# sp|P19320|VCAM1_HUMAN Length: 739
+# sp|P19320|VCAM1_HUMAN Number of predicted TMHs:  1
+# sp|P19320|VCAM1_HUMAN Exp number of AAs in TMHs: 29.20877
+# sp|P19320|VCAM1_HUMAN Exp number, first 60 AAs:  7.93883999999999
+# sp|P19320|VCAM1_HUMAN Total prob of N-in:        0.39352
+sp|P19320|VCAM1_HUMAN	TMHMM2.0	outside	     1   698
+sp|P19320|VCAM1_HUMAN	TMHMM2.0	TMhelix	   699   721
+sp|P19320|VCAM1_HUMAN	TMHMM2.0	inside	   722   739
+
+# tr|B5A924|B5A924_HUMAN Length: 174
+# tr|B5A924|B5A924_HUMAN Number of predicted TMHs:  0
+# tr|B5A924|B5A924_HUMAN Exp number of AAs in TMHs: 10.17163
+# tr|B5A924|B5A924_HUMAN Exp number, first 60 AAs:  10.16883
+# tr|B5A924|B5A924_HUMAN Total prob of N-in:        0.32918
+# tr|B5A924|B5A924_HUMAN POSSIBLE N-term signal sequence
+tr|B5A924|B5A924_HUMAN	TMHMM2.0	outside	     1   174
+
+# sp|P12821|ACE_HUMAN Length: 1306
+# sp|P12821|ACE_HUMAN Number of predicted TMHs:  1
+# sp|P12821|ACE_HUMAN Exp number of AAs in TMHs: 21.68631
+# sp|P12821|ACE_HUMAN Exp number, first 60 AAs:  0.46768
+# sp|P12821|ACE_HUMAN Total prob of N-in:        0.02416
+sp|P12821|ACE_HUMAN	TMHMM2.0	outside	     1  1256
+sp|P12821|ACE_HUMAN	TMHMM2.0	TMhelix	  1257  1276
+sp|P12821|ACE_HUMAN	TMHMM2.0	inside	  1277  1306
+
+# sp|Q9BYF1|ACE2_HUMAN Length: 805
+# sp|Q9BYF1|ACE2_HUMAN Number of predicted TMHs:  1
+# sp|Q9BYF1|ACE2_HUMAN Exp number of AAs in TMHs: 23.23853
+# sp|Q9BYF1|ACE2_HUMAN Exp number, first 60 AAs:  0.13732
+# sp|Q9BYF1|ACE2_HUMAN Total prob of N-in:        0.00786
+sp|Q9BYF1|ACE2_HUMAN	TMHMM2.0	outside	     1   740
+sp|Q9BYF1|ACE2_HUMAN	TMHMM2.0	TMhelix	   741   763
+sp|Q9BYF1|ACE2_HUMAN	TMHMM2.0	inside	   764   805
+
+# sp|P15514|AREG_HUMAN Length: 252
+# sp|P15514|AREG_HUMAN Number of predicted TMHs:  1
+# sp|P15514|AREG_HUMAN Exp number of AAs in TMHs: 30.04296
+# sp|P15514|AREG_HUMAN Exp number, first 60 AAs:  7.2284
+# sp|P15514|AREG_HUMAN Total prob of N-in:        0.24515
+sp|P15514|AREG_HUMAN	TMHMM2.0	outside	     1   198
+sp|P15514|AREG_HUMAN	TMHMM2.0	TMhelix	   199   221
+sp|P15514|AREG_HUMAN	TMHMM2.0	inside	   222   252
+
+# sp|Q9NZQ7|PD1L1_HUMAN Length: 290
+# sp|Q9NZQ7|PD1L1_HUMAN Number of predicted TMHs:  1
+# sp|Q9NZQ7|PD1L1_HUMAN Exp number of AAs in TMHs: 23.80762
+# sp|Q9NZQ7|PD1L1_HUMAN Exp number, first 60 AAs:  1.53054
+# sp|Q9NZQ7|PD1L1_HUMAN Total prob of N-in:        0.07736
+sp|Q9NZQ7|PD1L1_HUMAN	TMHMM2.0	outside	     1   238
+sp|Q9NZQ7|PD1L1_HUMAN	TMHMM2.0	TMhelix	   239   261
+sp|Q9NZQ7|PD1L1_HUMAN	TMHMM2.0	inside	   262   290
+
+# sp|O94985|CSTN1_HUMAN Length: 981
+# sp|O94985|CSTN1_HUMAN Number of predicted TMHs:  1
+# sp|O94985|CSTN1_HUMAN Exp number of AAs in TMHs: 30.35291
+# sp|O94985|CSTN1_HUMAN Exp number, first 60 AAs:  7.51492999999999
+# sp|O94985|CSTN1_HUMAN Total prob of N-in:        0.36266
+sp|O94985|CSTN1_HUMAN	TMHMM2.0	outside	     1   859
+sp|O94985|CSTN1_HUMAN	TMHMM2.0	TMhelix	   860   882
+sp|O94985|CSTN1_HUMAN	TMHMM2.0	inside	   883   981
+
+# sp|Q9H4D0|CSTN2_HUMAN Length: 955
+# sp|Q9H4D0|CSTN2_HUMAN Number of predicted TMHs:  1
+# sp|Q9H4D0|CSTN2_HUMAN Exp number of AAs in TMHs: 24.11006
+# sp|Q9H4D0|CSTN2_HUMAN Exp number, first 60 AAs:  1.53749
+# sp|Q9H4D0|CSTN2_HUMAN Total prob of N-in:        0.07895
+sp|Q9H4D0|CSTN2_HUMAN	TMHMM2.0	outside	     1   830
+sp|Q9H4D0|CSTN2_HUMAN	TMHMM2.0	TMhelix	   831   853
+sp|Q9H4D0|CSTN2_HUMAN	TMHMM2.0	inside	   854   955
+
+# sp|Q9BQT9|CSTN3_HUMAN Length: 956
+# sp|Q9BQT9|CSTN3_HUMAN Number of predicted TMHs:  1
+# sp|Q9BQT9|CSTN3_HUMAN Exp number of AAs in TMHs: 22.58774
+# sp|Q9BQT9|CSTN3_HUMAN Exp number, first 60 AAs:  0.0012
+# sp|Q9BQT9|CSTN3_HUMAN Total prob of N-in:        0.00007
+sp|Q9BQT9|CSTN3_HUMAN	TMHMM2.0	outside	     1   845
+sp|Q9BQT9|CSTN3_HUMAN	TMHMM2.0	TMhelix	   846   868
+sp|Q9BQT9|CSTN3_HUMAN	TMHMM2.0	inside	   869   956
+
+# sp|P80370|DLK1_HUMAN Length: 383
+# sp|P80370|DLK1_HUMAN Number of predicted TMHs:  1
+# sp|P80370|DLK1_HUMAN Exp number of AAs in TMHs: 25.44051
+# sp|P80370|DLK1_HUMAN Exp number, first 60 AAs:  2.81807
+# sp|P80370|DLK1_HUMAN Total prob of N-in:        0.20492
+sp|P80370|DLK1_HUMAN	TMHMM2.0	outside	     1   304
+sp|P80370|DLK1_HUMAN	TMHMM2.0	TMhelix	   305   327
+sp|P80370|DLK1_HUMAN	TMHMM2.0	inside	   328   383
+
+# sp|P16422|EPCAM_HUMAN Length: 314
+# sp|P16422|EPCAM_HUMAN Number of predicted TMHs:  1
+# sp|P16422|EPCAM_HUMAN Exp number of AAs in TMHs: 24.46977
+# sp|P16422|EPCAM_HUMAN Exp number, first 60 AAs:  1.73607
+# sp|P16422|EPCAM_HUMAN Total prob of N-in:        0.09184
+sp|P16422|EPCAM_HUMAN	TMHMM2.0	outside	     1   265
+sp|P16422|EPCAM_HUMAN	TMHMM2.0	TMhelix	   266   288
+sp|P16422|EPCAM_HUMAN	TMHMM2.0	inside	   289   314
+
+# sp|P10912|GHR_HUMAN Length: 638
+# sp|P10912|GHR_HUMAN Number of predicted TMHs:  1
+# sp|P10912|GHR_HUMAN Exp number of AAs in TMHs: 23.059
+# sp|P10912|GHR_HUMAN Exp number, first 60 AAs:  0.0509
+# sp|P10912|GHR_HUMAN Total prob of N-in:        0.09984
+sp|P10912|GHR_HUMAN	TMHMM2.0	outside	     1   263
+sp|P10912|GHR_HUMAN	TMHMM2.0	TMhelix	   264   286
+sp|P10912|GHR_HUMAN	TMHMM2.0	inside	   287   638
+
+# sp|Q9BX67|JAM3_HUMAN Length: 310
+# sp|Q9BX67|JAM3_HUMAN Number of predicted TMHs:  1
+# sp|Q9BX67|JAM3_HUMAN Exp number of AAs in TMHs: 23.70716
+# sp|Q9BX67|JAM3_HUMAN Exp number, first 60 AAs:  0.79683
+# sp|Q9BX67|JAM3_HUMAN Total prob of N-in:        0.04918
+sp|Q9BX67|JAM3_HUMAN	TMHMM2.0	outside	     1   244
+sp|Q9BX67|JAM3_HUMAN	TMHMM2.0	TMhelix	   245   267
+sp|Q9BX67|JAM3_HUMAN	TMHMM2.0	inside	   268   310
+
+# sp|Q96JA1|LRIG1_HUMAN Length: 1093
+# sp|Q96JA1|LRIG1_HUMAN Number of predicted TMHs:  1
+# sp|Q96JA1|LRIG1_HUMAN Exp number of AAs in TMHs: 21.71518
+# sp|Q96JA1|LRIG1_HUMAN Exp number, first 60 AAs:  0.03719
+# sp|Q96JA1|LRIG1_HUMAN Total prob of N-in:        0.00206
+sp|Q96JA1|LRIG1_HUMAN	TMHMM2.0	outside	     1   792
+sp|Q96JA1|LRIG1_HUMAN	TMHMM2.0	TMhelix	   793   815
+sp|Q96JA1|LRIG1_HUMAN	TMHMM2.0	inside	   816  1093
+
+# sp|P15941|MUC1_HUMAN Length: 1255
+# sp|P15941|MUC1_HUMAN Number of predicted TMHs:  1
+# sp|P15941|MUC1_HUMAN Exp number of AAs in TMHs: 34.8062999999999
+# sp|P15941|MUC1_HUMAN Exp number, first 60 AAs:  11.56195
+# sp|P15941|MUC1_HUMAN Total prob of N-in:        0.55560
+# sp|P15941|MUC1_HUMAN POSSIBLE N-term signal sequence
+sp|P15941|MUC1_HUMAN	TMHMM2.0	outside	     1  1158
+sp|P15941|MUC1_HUMAN	TMHMM2.0	TMhelix	  1159  1181
+sp|P15941|MUC1_HUMAN	TMHMM2.0	inside	  1182  1255
+
+# sp|Q96NY8|NECT4_HUMAN Length: 510
+# sp|Q96NY8|NECT4_HUMAN Number of predicted TMHs:  1
+# sp|Q96NY8|NECT4_HUMAN Exp number of AAs in TMHs: 22.94484
+# sp|Q96NY8|NECT4_HUMAN Exp number, first 60 AAs:  0.12865
+# sp|Q96NY8|NECT4_HUMAN Total prob of N-in:        0.00512
+sp|Q96NY8|NECT4_HUMAN	TMHMM2.0	outside	     1   349
+sp|Q96NY8|NECT4_HUMAN	TMHMM2.0	TMhelix	   350   372
+sp|Q96NY8|NECT4_HUMAN	TMHMM2.0	inside	   373   510
+
+# sp|P08138|TNR16_HUMAN Length: 427
+# sp|P08138|TNR16_HUMAN Number of predicted TMHs:  1
+# sp|P08138|TNR16_HUMAN Exp number of AAs in TMHs: 22.74958
+# sp|P08138|TNR16_HUMAN Exp number, first 60 AAs:  0.61488
+# sp|P08138|TNR16_HUMAN Total prob of N-in:        0.14325
+sp|P08138|TNR16_HUMAN	TMHMM2.0	outside	     1   249
+sp|P08138|TNR16_HUMAN	TMHMM2.0	TMhelix	   250   272
+sp|P08138|TNR16_HUMAN	TMHMM2.0	inside	   273   427
+
+# sp|Q02297|NRG1_HUMAN Length: 640
+# sp|Q02297|NRG1_HUMAN Number of predicted TMHs:  1
+# sp|Q02297|NRG1_HUMAN Exp number of AAs in TMHs: 22.58106
+# sp|Q02297|NRG1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q02297|NRG1_HUMAN Total prob of N-in:        0.38544
+sp|Q02297|NRG1_HUMAN	TMHMM2.0	outside	     1   242
+sp|Q02297|NRG1_HUMAN	TMHMM2.0	TMhelix	   243   265
+sp|Q02297|NRG1_HUMAN	TMHMM2.0	inside	   266   640
+
+# sp|Q9HDB5|NRX3B_HUMAN Length: 637
+# sp|Q9HDB5|NRX3B_HUMAN Number of predicted TMHs:  1
+# sp|Q9HDB5|NRX3B_HUMAN Exp number of AAs in TMHs: 35.2195
+# sp|Q9HDB5|NRX3B_HUMAN Exp number, first 60 AAs:  12.61393
+# sp|Q9HDB5|NRX3B_HUMAN Total prob of N-in:        0.60065
+# sp|Q9HDB5|NRX3B_HUMAN POSSIBLE N-term signal sequence
+sp|Q9HDB5|NRX3B_HUMAN	TMHMM2.0	outside	     1   561
+sp|Q9HDB5|NRX3B_HUMAN	TMHMM2.0	TMhelix	   562   584
+sp|Q9HDB5|NRX3B_HUMAN	TMHMM2.0	inside	   585   637
+
+# sp|P04629|NTRK1_HUMAN Length: 796
+# sp|P04629|NTRK1_HUMAN Number of predicted TMHs:  1
+# sp|P04629|NTRK1_HUMAN Exp number of AAs in TMHs: 39.4877000000001
+# sp|P04629|NTRK1_HUMAN Exp number, first 60 AAs:  3.1972
+# sp|P04629|NTRK1_HUMAN Total prob of N-in:        0.20856
+sp|P04629|NTRK1_HUMAN	TMHMM2.0	outside	     1   416
+sp|P04629|NTRK1_HUMAN	TMHMM2.0	TMhelix	   417   439
+sp|P04629|NTRK1_HUMAN	TMHMM2.0	inside	   440   796
+
+# sp|Q9UNN8|EPCR_HUMAN Length: 238
+# sp|Q9UNN8|EPCR_HUMAN Number of predicted TMHs:  1
+# sp|Q9UNN8|EPCR_HUMAN Exp number of AAs in TMHs: 22.77744
+# sp|Q9UNN8|EPCR_HUMAN Exp number, first 60 AAs:  0.02629
+# sp|Q9UNN8|EPCR_HUMAN Total prob of N-in:        0.03547
+sp|Q9UNN8|EPCR_HUMAN	TMHMM2.0	outside	     1   209
+sp|Q9UNN8|EPCR_HUMAN	TMHMM2.0	TMhelix	   210   232
+sp|Q9UNN8|EPCR_HUMAN	TMHMM2.0	inside	   233   238
+
+# sp|P10586|PTPRF_HUMAN Length: 1907
+# sp|P10586|PTPRF_HUMAN Number of predicted TMHs:  1
+# sp|P10586|PTPRF_HUMAN Exp number of AAs in TMHs: 33.4547200000002
+# sp|P10586|PTPRF_HUMAN Exp number, first 60 AAs:  4.05974
+# sp|P10586|PTPRF_HUMAN Total prob of N-in:        0.20337
+sp|P10586|PTPRF_HUMAN	TMHMM2.0	outside	     1  1261
+sp|P10586|PTPRF_HUMAN	TMHMM2.0	TMhelix	  1262  1284
+sp|P10586|PTPRF_HUMAN	TMHMM2.0	inside	  1285  1907
+
+# sp|Q8WY21|SORC1_HUMAN Length: 1168
+# sp|Q8WY21|SORC1_HUMAN Number of predicted TMHs:  1
+# sp|Q8WY21|SORC1_HUMAN Exp number of AAs in TMHs: 24.50366
+# sp|Q8WY21|SORC1_HUMAN Exp number, first 60 AAs:  3.55165
+# sp|Q8WY21|SORC1_HUMAN Total prob of N-in:        0.16159
+sp|Q8WY21|SORC1_HUMAN	TMHMM2.0	outside	     1  1097
+sp|Q8WY21|SORC1_HUMAN	TMHMM2.0	TMhelix	  1098  1120
+sp|Q8WY21|SORC1_HUMAN	TMHMM2.0	inside	  1121  1168
+
+# sp|Q96PQ0|SORC2_HUMAN Length: 1159
+# sp|Q96PQ0|SORC2_HUMAN Number of predicted TMHs:  1
+# sp|Q96PQ0|SORC2_HUMAN Exp number of AAs in TMHs: 22.86889
+# sp|Q96PQ0|SORC2_HUMAN Exp number, first 60 AAs:  0.2069
+# sp|Q96PQ0|SORC2_HUMAN Total prob of N-in:        0.01157
+sp|Q96PQ0|SORC2_HUMAN	TMHMM2.0	outside	     1  1077
+sp|Q96PQ0|SORC2_HUMAN	TMHMM2.0	TMhelix	  1078  1100
+sp|Q96PQ0|SORC2_HUMAN	TMHMM2.0	inside	  1101  1159
+
+# sp|Q9UPU3|SORC3_HUMAN Length: 1222
+# sp|Q9UPU3|SORC3_HUMAN Number of predicted TMHs:  1
+# sp|Q9UPU3|SORC3_HUMAN Exp number of AAs in TMHs: 23.31829
+# sp|Q9UPU3|SORC3_HUMAN Exp number, first 60 AAs:  1.9416
+# sp|Q9UPU3|SORC3_HUMAN Total prob of N-in:        0.09569
+sp|Q9UPU3|SORC3_HUMAN	TMHMM2.0	outside	     1  1124
+sp|Q9UPU3|SORC3_HUMAN	TMHMM2.0	TMhelix	  1125  1144
+sp|Q9UPU3|SORC3_HUMAN	TMHMM2.0	inside	  1145  1222
+
+# sp|Q99523|SORT_HUMAN Length: 831
+# sp|Q99523|SORT_HUMAN Number of predicted TMHs:  1
+# sp|Q99523|SORT_HUMAN Exp number of AAs in TMHs: 24.84488
+# sp|Q99523|SORT_HUMAN Exp number, first 60 AAs:  0.18562
+# sp|Q99523|SORT_HUMAN Total prob of N-in:        0.10134
+sp|Q99523|SORT_HUMAN	TMHMM2.0	outside	     1   755
+sp|Q99523|SORT_HUMAN	TMHMM2.0	TMhelix	   756   778
+sp|Q99523|SORT_HUMAN	TMHMM2.0	inside	   779   831
+
+# sp|P36897|TGFR1_HUMAN Length: 503
+# sp|P36897|TGFR1_HUMAN Number of predicted TMHs:  2
+# sp|P36897|TGFR1_HUMAN Exp number of AAs in TMHs: 45.3981000000001
+# sp|P36897|TGFR1_HUMAN Exp number, first 60 AAs:  22.61328
+# sp|P36897|TGFR1_HUMAN Total prob of N-in:        0.99398
+# sp|P36897|TGFR1_HUMAN POSSIBLE N-term signal sequence
+sp|P36897|TGFR1_HUMAN	TMHMM2.0	inside	     1    11
+sp|P36897|TGFR1_HUMAN	TMHMM2.0	TMhelix	    12    34
+sp|P36897|TGFR1_HUMAN	TMHMM2.0	outside	    35   125
+sp|P36897|TGFR1_HUMAN	TMHMM2.0	TMhelix	   126   148
+sp|P36897|TGFR1_HUMAN	TMHMM2.0	inside	   149   503
+
+# sp|Q9UIK5|TEFF2_HUMAN Length: 374
+# sp|Q9UIK5|TEFF2_HUMAN Number of predicted TMHs:  2
+# sp|Q9UIK5|TEFF2_HUMAN Exp number of AAs in TMHs: 42.52242
+# sp|Q9UIK5|TEFF2_HUMAN Exp number, first 60 AAs:  19.65441
+# sp|Q9UIK5|TEFF2_HUMAN Total prob of N-in:        0.92074
+# sp|Q9UIK5|TEFF2_HUMAN POSSIBLE N-term signal sequence
+sp|Q9UIK5|TEFF2_HUMAN	TMHMM2.0	inside	     1    12
+sp|Q9UIK5|TEFF2_HUMAN	TMHMM2.0	TMhelix	    13    32
+sp|Q9UIK5|TEFF2_HUMAN	TMHMM2.0	outside	    33   318
+sp|Q9UIK5|TEFF2_HUMAN	TMHMM2.0	TMhelix	   319   341
+sp|Q9UIK5|TEFF2_HUMAN	TMHMM2.0	inside	   342   374
+
+# sp|P28908|TNR8_HUMAN Length: 595
+# sp|P28908|TNR8_HUMAN Number of predicted TMHs:  1
+# sp|P28908|TNR8_HUMAN Exp number of AAs in TMHs: 22.63928
+# sp|P28908|TNR8_HUMAN Exp number, first 60 AAs:  0.57645
+# sp|P28908|TNR8_HUMAN Total prob of N-in:        0.03188
+sp|P28908|TNR8_HUMAN	TMHMM2.0	outside	     1   385
+sp|P28908|TNR8_HUMAN	TMHMM2.0	TMhelix	   386   408
+sp|P28908|TNR8_HUMAN	TMHMM2.0	inside	   409   595
+
+# sp|Q6EMK4|VASN_HUMAN Length: 673
+# sp|Q6EMK4|VASN_HUMAN Number of predicted TMHs:  1
+# sp|Q6EMK4|VASN_HUMAN Exp number of AAs in TMHs: 23.42421
+# sp|Q6EMK4|VASN_HUMAN Exp number, first 60 AAs:  0.87392
+# sp|Q6EMK4|VASN_HUMAN Total prob of N-in:        0.04518
+sp|Q6EMK4|VASN_HUMAN	TMHMM2.0	outside	     1   576
+sp|Q6EMK4|VASN_HUMAN	TMHMM2.0	TMhelix	   577   599
+sp|Q6EMK4|VASN_HUMAN	TMHMM2.0	inside	   600   673
+
+# sp|P02786|TFR1_HUMAN Length: 760
+# sp|P02786|TFR1_HUMAN Number of predicted TMHs:  1
+# sp|P02786|TFR1_HUMAN Exp number of AAs in TMHs: 22.6236999999999
+# sp|P02786|TFR1_HUMAN Exp number, first 60 AAs:  0.00218
+# sp|P02786|TFR1_HUMAN Total prob of N-in:        0.99967
+sp|P02786|TFR1_HUMAN	TMHMM2.0	inside	     1    63
+sp|P02786|TFR1_HUMAN	TMHMM2.0	TMhelix	    64    86
+sp|P02786|TFR1_HUMAN	TMHMM2.0	outside	    87   760
+
+# sp|Q15424|SAFB1_HUMAN Length: 915
+# sp|Q15424|SAFB1_HUMAN Number of predicted TMHs:  0
+# sp|Q15424|SAFB1_HUMAN Exp number of AAs in TMHs: 0.0039
+# sp|Q15424|SAFB1_HUMAN Exp number, first 60 AAs:  0.0039
+# sp|Q15424|SAFB1_HUMAN Total prob of N-in:        0.00020
+sp|Q15424|SAFB1_HUMAN	TMHMM2.0	outside	     1   915
+
+# sp|P09496|CLCA_HUMAN Length: 248
+# sp|P09496|CLCA_HUMAN Number of predicted TMHs:  0
+# sp|P09496|CLCA_HUMAN Exp number of AAs in TMHs: 0.00295
+# sp|P09496|CLCA_HUMAN Exp number, first 60 AAs:  0.00295
+# sp|P09496|CLCA_HUMAN Total prob of N-in:        0.00510
+sp|P09496|CLCA_HUMAN	TMHMM2.0	outside	     1   248
+
+# sp|P14314|GLU2B_HUMAN Length: 528
+# sp|P14314|GLU2B_HUMAN Number of predicted TMHs:  0
+# sp|P14314|GLU2B_HUMAN Exp number of AAs in TMHs: 0.00048
+# sp|P14314|GLU2B_HUMAN Exp number, first 60 AAs:  0.00048
+# sp|P14314|GLU2B_HUMAN Total prob of N-in:        0.00004
+sp|P14314|GLU2B_HUMAN	TMHMM2.0	outside	     1   528
+
+# sp|Q08211|DHX9_HUMAN Length: 1270
+# sp|Q08211|DHX9_HUMAN Number of predicted TMHs:  0
+# sp|Q08211|DHX9_HUMAN Exp number of AAs in TMHs: 4.47516999999999
+# sp|Q08211|DHX9_HUMAN Exp number, first 60 AAs:  0
+# sp|Q08211|DHX9_HUMAN Total prob of N-in:        0.00009
+sp|Q08211|DHX9_HUMAN	TMHMM2.0	outside	     1  1270
+
+# sp|P24534|EF1B_HUMAN Length: 225
+# sp|P24534|EF1B_HUMAN Number of predicted TMHs:  0
+# sp|P24534|EF1B_HUMAN Exp number of AAs in TMHs: 0.0007
+# sp|P24534|EF1B_HUMAN Exp number, first 60 AAs:  0.00021
+# sp|P24534|EF1B_HUMAN Total prob of N-in:        0.01441
+sp|P24534|EF1B_HUMAN	TMHMM2.0	outside	     1   225
+
+# sp|Q96KR1|ZFR_HUMAN Length: 1074
+# sp|Q96KR1|ZFR_HUMAN Number of predicted TMHs:  0
+# sp|Q96KR1|ZFR_HUMAN Exp number of AAs in TMHs: 0.15176
+# sp|Q96KR1|ZFR_HUMAN Exp number, first 60 AAs:  0.02708
+# sp|Q96KR1|ZFR_HUMAN Total prob of N-in:        0.00472
+sp|Q96KR1|ZFR_HUMAN	TMHMM2.0	outside	     1  1074
+
+# sp|P22626|ROA2_HUMAN Length: 353
+# sp|P22626|ROA2_HUMAN Number of predicted TMHs:  0
+# sp|P22626|ROA2_HUMAN Exp number of AAs in TMHs: 0.0333
+# sp|P22626|ROA2_HUMAN Exp number, first 60 AAs:  0.00019
+# sp|P22626|ROA2_HUMAN Total prob of N-in:        0.00912
+sp|P22626|ROA2_HUMAN	TMHMM2.0	outside	     1   353
+
+# sp|P04075|ALDOA_HUMAN Length: 364
+# sp|P04075|ALDOA_HUMAN Number of predicted TMHs:  0
+# sp|P04075|ALDOA_HUMAN Exp number of AAs in TMHs: 0.00126
+# sp|P04075|ALDOA_HUMAN Exp number, first 60 AAs:  0
+# sp|P04075|ALDOA_HUMAN Total prob of N-in:        0.00489
+sp|P04075|ALDOA_HUMAN	TMHMM2.0	outside	     1   364
+
+# sp|P68363|TBA1B_HUMAN Length: 451
+# sp|P68363|TBA1B_HUMAN Number of predicted TMHs:  0
+# sp|P68363|TBA1B_HUMAN Exp number of AAs in TMHs: 1.2914
+# sp|P68363|TBA1B_HUMAN Exp number, first 60 AAs:  0.00391
+# sp|P68363|TBA1B_HUMAN Total prob of N-in:        0.06091
+sp|P68363|TBA1B_HUMAN	TMHMM2.0	outside	     1   451
+
+# sp|P07900|HS90A_HUMAN Length: 732
+# sp|P07900|HS90A_HUMAN Number of predicted TMHs:  0
+# sp|P07900|HS90A_HUMAN Exp number of AAs in TMHs: 0.30439
+# sp|P07900|HS90A_HUMAN Exp number, first 60 AAs:  0.08148
+# sp|P07900|HS90A_HUMAN Total prob of N-in:        0.01248
+sp|P07900|HS90A_HUMAN	TMHMM2.0	outside	     1   732
+
+# sp|P08572|CO4A2_HUMAN Length: 1712
+# sp|P08572|CO4A2_HUMAN Number of predicted TMHs:  1
+# sp|P08572|CO4A2_HUMAN Exp number of AAs in TMHs: 19.97972
+# sp|P08572|CO4A2_HUMAN Exp number, first 60 AAs:  19.9781
+# sp|P08572|CO4A2_HUMAN Total prob of N-in:        0.91263
+# sp|P08572|CO4A2_HUMAN POSSIBLE N-term signal sequence
+sp|P08572|CO4A2_HUMAN	TMHMM2.0	inside	     1    12
+sp|P08572|CO4A2_HUMAN	TMHMM2.0	TMhelix	    13    35
+sp|P08572|CO4A2_HUMAN	TMHMM2.0	outside	    36  1712
+
+# sp|P12829|MYL4_HUMAN Length: 197
+# sp|P12829|MYL4_HUMAN Number of predicted TMHs:  0
+# sp|P12829|MYL4_HUMAN Exp number of AAs in TMHs: 0
+# sp|P12829|MYL4_HUMAN Exp number, first 60 AAs:  0
+# sp|P12829|MYL4_HUMAN Total prob of N-in:        0.13758
+sp|P12829|MYL4_HUMAN	TMHMM2.0	outside	     1   197
+
+# sp|P02751|FINC_HUMAN Length: 2477
+# sp|P02751|FINC_HUMAN Number of predicted TMHs:  0
+# sp|P02751|FINC_HUMAN Exp number of AAs in TMHs: 0.17424
+# sp|P02751|FINC_HUMAN Exp number, first 60 AAs:  0.17228
+# sp|P02751|FINC_HUMAN Total prob of N-in:        0.00854
+sp|P02751|FINC_HUMAN	TMHMM2.0	outside	     1  2477
+
+# sp|P04792|HSPB1_HUMAN Length: 205
+# sp|P04792|HSPB1_HUMAN Number of predicted TMHs:  0
+# sp|P04792|HSPB1_HUMAN Exp number of AAs in TMHs: 0.00021
+# sp|P04792|HSPB1_HUMAN Exp number, first 60 AAs:  7e-05
+# sp|P04792|HSPB1_HUMAN Total prob of N-in:        0.05947
+sp|P04792|HSPB1_HUMAN	TMHMM2.0	outside	     1   205
+
+# sp|P46821|MAP1B_HUMAN Length: 2468
+# sp|P46821|MAP1B_HUMAN Number of predicted TMHs:  0
+# sp|P46821|MAP1B_HUMAN Exp number of AAs in TMHs: 0.01441
+# sp|P46821|MAP1B_HUMAN Exp number, first 60 AAs:  0.00126
+# sp|P46821|MAP1B_HUMAN Total prob of N-in:        0.00053
+sp|P46821|MAP1B_HUMAN	TMHMM2.0	outside	     1  2468
+
+# sp|P19022|CADH2_HUMAN Length: 906
+# sp|P19022|CADH2_HUMAN Number of predicted TMHs:  1
+# sp|P19022|CADH2_HUMAN Exp number of AAs in TMHs: 23.34594
+# sp|P19022|CADH2_HUMAN Exp number, first 60 AAs:  0.34257
+# sp|P19022|CADH2_HUMAN Total prob of N-in:        0.01706
+sp|P19022|CADH2_HUMAN	TMHMM2.0	outside	     1   723
+sp|P19022|CADH2_HUMAN	TMHMM2.0	TMhelix	   724   746
+sp|P19022|CADH2_HUMAN	TMHMM2.0	inside	   747   906
+
+# sp|Q13813|SPTN1_HUMAN Length: 2472
+# sp|Q13813|SPTN1_HUMAN Number of predicted TMHs:  0
+# sp|Q13813|SPTN1_HUMAN Exp number of AAs in TMHs: 0
+# sp|Q13813|SPTN1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q13813|SPTN1_HUMAN Total prob of N-in:        0.00000
+sp|Q13813|SPTN1_HUMAN	TMHMM2.0	outside	     1  2472
+
+# sp|P60174|TPIS_HUMAN Length: 249
+# sp|P60174|TPIS_HUMAN Number of predicted TMHs:  0
+# sp|P60174|TPIS_HUMAN Exp number of AAs in TMHs: 0.00132
+# sp|P60174|TPIS_HUMAN Exp number, first 60 AAs:  0.00044
+# sp|P60174|TPIS_HUMAN Total prob of N-in:        0.02225
+sp|P60174|TPIS_HUMAN	TMHMM2.0	outside	     1   249
+
+# sp|P50454|SERPH_HUMAN Length: 418
+# sp|P50454|SERPH_HUMAN Number of predicted TMHs:  0
+# sp|P50454|SERPH_HUMAN Exp number of AAs in TMHs: 0.20866
+# sp|P50454|SERPH_HUMAN Exp number, first 60 AAs:  0.01316
+# sp|P50454|SERPH_HUMAN Total prob of N-in:        0.00475
+sp|P50454|SERPH_HUMAN	TMHMM2.0	outside	     1   418
+
+# sp|P08670|VIME_HUMAN Length: 466
+# sp|P08670|VIME_HUMAN Number of predicted TMHs:  0
+# sp|P08670|VIME_HUMAN Exp number of AAs in TMHs: 0.00041
+# sp|P08670|VIME_HUMAN Exp number, first 60 AAs:  0.00025
+# sp|P08670|VIME_HUMAN Total prob of N-in:        0.00462
+sp|P08670|VIME_HUMAN	TMHMM2.0	outside	     1   466
+
+# sp|P01034|CYTC_HUMAN Length: 146
+# sp|P01034|CYTC_HUMAN Number of predicted TMHs:  1
+# sp|P01034|CYTC_HUMAN Exp number of AAs in TMHs: 17.96755
+# sp|P01034|CYTC_HUMAN Exp number, first 60 AAs:  17.95794
+# sp|P01034|CYTC_HUMAN Total prob of N-in:        0.82207
+# sp|P01034|CYTC_HUMAN POSSIBLE N-term signal sequence
+sp|P01034|CYTC_HUMAN	TMHMM2.0	inside	     1     6
+sp|P01034|CYTC_HUMAN	TMHMM2.0	TMhelix	     7    26
+sp|P01034|CYTC_HUMAN	TMHMM2.0	outside	    27   146
+
+# sp|Q9Y490|TLN1_HUMAN Length: 2541
+# sp|Q9Y490|TLN1_HUMAN Number of predicted TMHs:  0
+# sp|Q9Y490|TLN1_HUMAN Exp number of AAs in TMHs: 0.00018
+# sp|Q9Y490|TLN1_HUMAN Exp number, first 60 AAs:  0.00018
+# sp|Q9Y490|TLN1_HUMAN Total prob of N-in:        0.00001
+sp|Q9Y490|TLN1_HUMAN	TMHMM2.0	outside	     1  2541
+
+# sp|P15311|EZRI_HUMAN Length: 586
+# sp|P15311|EZRI_HUMAN Number of predicted TMHs:  0
+# sp|P15311|EZRI_HUMAN Exp number of AAs in TMHs: 0.0011
+# sp|P15311|EZRI_HUMAN Exp number, first 60 AAs:  0.000940000000000001
+# sp|P15311|EZRI_HUMAN Total prob of N-in:        0.00126
+sp|P15311|EZRI_HUMAN	TMHMM2.0	outside	     1   586
+
+# sp|P26368|U2AF2_HUMAN Length: 475
+# sp|P26368|U2AF2_HUMAN Number of predicted TMHs:  0
+# sp|P26368|U2AF2_HUMAN Exp number of AAs in TMHs: 0.0405600000000002
+# sp|P26368|U2AF2_HUMAN Exp number, first 60 AAs:  0
+# sp|P26368|U2AF2_HUMAN Total prob of N-in:        0.00441
+sp|P26368|U2AF2_HUMAN	TMHMM2.0	outside	     1   475
+
+# sp|P27816|MAP4_HUMAN Length: 1152
+# sp|P27816|MAP4_HUMAN Number of predicted TMHs:  0
+# sp|P27816|MAP4_HUMAN Exp number of AAs in TMHs: 0
+# sp|P27816|MAP4_HUMAN Exp number, first 60 AAs:  0
+# sp|P27816|MAP4_HUMAN Total prob of N-in:        0.00000
+sp|P27816|MAP4_HUMAN	TMHMM2.0	outside	     1  1152
+
+# sp|P30101|PDIA3_HUMAN Length: 505
+# sp|P30101|PDIA3_HUMAN Number of predicted TMHs:  0
+# sp|P30101|PDIA3_HUMAN Exp number of AAs in TMHs: 2.52037
+# sp|P30101|PDIA3_HUMAN Exp number, first 60 AAs:  2.52028
+# sp|P30101|PDIA3_HUMAN Total prob of N-in:        0.13234
+sp|P30101|PDIA3_HUMAN	TMHMM2.0	outside	     1   505
+
+# sp|P29401|TKT_HUMAN Length: 623
+# sp|P29401|TKT_HUMAN Number of predicted TMHs:  0
+# sp|P29401|TKT_HUMAN Exp number of AAs in TMHs: 0.607969999999997
+# sp|P29401|TKT_HUMAN Exp number, first 60 AAs:  0.22544
+# sp|P29401|TKT_HUMAN Total prob of N-in:        0.02248
+sp|P29401|TKT_HUMAN	TMHMM2.0	outside	     1   623
+
+# sp|P46109|CRKL_HUMAN Length: 303
+# sp|P46109|CRKL_HUMAN Number of predicted TMHs:  0
+# sp|P46109|CRKL_HUMAN Exp number of AAs in TMHs: 0.00022
+# sp|P46109|CRKL_HUMAN Exp number, first 60 AAs:  0
+# sp|P46109|CRKL_HUMAN Total prob of N-in:        0.02216
+sp|P46109|CRKL_HUMAN	TMHMM2.0	outside	     1   303
+
+# sp|P62633|CNBP_HUMAN Length: 177
+# sp|P62633|CNBP_HUMAN Number of predicted TMHs:  0
+# sp|P62633|CNBP_HUMAN Exp number of AAs in TMHs: 0
+# sp|P62633|CNBP_HUMAN Exp number, first 60 AAs:  0
+# sp|P62633|CNBP_HUMAN Total prob of N-in:        0.12999
+sp|P62633|CNBP_HUMAN	TMHMM2.0	outside	     1   177
+
+# sp|P54727|RD23B_HUMAN Length: 409
+# sp|P54727|RD23B_HUMAN Number of predicted TMHs:  0
+# sp|P54727|RD23B_HUMAN Exp number of AAs in TMHs: 0.00213
+# sp|P54727|RD23B_HUMAN Exp number, first 60 AAs:  0
+# sp|P54727|RD23B_HUMAN Total prob of N-in:        0.01365
+sp|P54727|RD23B_HUMAN	TMHMM2.0	outside	     1   409
+
+# sp|P26196|DDX6_HUMAN Length: 483
+# sp|P26196|DDX6_HUMAN Number of predicted TMHs:  0
+# sp|P26196|DDX6_HUMAN Exp number of AAs in TMHs: 0.00372
+# sp|P26196|DDX6_HUMAN Exp number, first 60 AAs:  0
+# sp|P26196|DDX6_HUMAN Total prob of N-in:        0.00586
+sp|P26196|DDX6_HUMAN	TMHMM2.0	outside	     1   483
+
+# sp|P45974|UBP5_HUMAN Length: 858
+# sp|P45974|UBP5_HUMAN Number of predicted TMHs:  0
+# sp|P45974|UBP5_HUMAN Exp number of AAs in TMHs: 0.4208
+# sp|P45974|UBP5_HUMAN Exp number, first 60 AAs:  0.00018
+# sp|P45974|UBP5_HUMAN Total prob of N-in:        0.00002
+sp|P45974|UBP5_HUMAN	TMHMM2.0	outside	     1   858
+
+# sp|P06576|ATPB_HUMAN Length: 529
+# sp|P06576|ATPB_HUMAN Number of predicted TMHs:  0
+# sp|P06576|ATPB_HUMAN Exp number of AAs in TMHs: 0.02056
+# sp|P06576|ATPB_HUMAN Exp number, first 60 AAs:  0.00086
+# sp|P06576|ATPB_HUMAN Total prob of N-in:        0.00091
+sp|P06576|ATPB_HUMAN	TMHMM2.0	outside	     1   529
+
+# sp|O14737|PDCD5_HUMAN Length: 125
+# sp|O14737|PDCD5_HUMAN Number of predicted TMHs:  0
+# sp|O14737|PDCD5_HUMAN Exp number of AAs in TMHs: 0
+# sp|O14737|PDCD5_HUMAN Exp number, first 60 AAs:  0
+# sp|O14737|PDCD5_HUMAN Total prob of N-in:        0.10486
+sp|O14737|PDCD5_HUMAN	TMHMM2.0	outside	     1   125
+
+# sp|Q15365|PCBP1_HUMAN Length: 356
+# sp|Q15365|PCBP1_HUMAN Number of predicted TMHs:  0
+# sp|Q15365|PCBP1_HUMAN Exp number of AAs in TMHs: 0.03848
+# sp|Q15365|PCBP1_HUMAN Exp number, first 60 AAs:  0.00251
+# sp|Q15365|PCBP1_HUMAN Total prob of N-in:        0.00528
+sp|Q15365|PCBP1_HUMAN	TMHMM2.0	outside	     1   356
+
+# sp|P60709|ACTB_HUMAN Length: 375
+# sp|P60709|ACTB_HUMAN Number of predicted TMHs:  0
+# sp|P60709|ACTB_HUMAN Exp number of AAs in TMHs: 1.7992
+# sp|P60709|ACTB_HUMAN Exp number, first 60 AAs:  0.00246
+# sp|P60709|ACTB_HUMAN Total prob of N-in:        0.05213
+sp|P60709|ACTB_HUMAN	TMHMM2.0	outside	     1   375
+
+# sp|Q9Y5L4|TIM13_HUMAN Length: 95
+# sp|Q9Y5L4|TIM13_HUMAN Number of predicted TMHs:  0
+# sp|Q9Y5L4|TIM13_HUMAN Exp number of AAs in TMHs: 0.00751
+# sp|Q9Y5L4|TIM13_HUMAN Exp number, first 60 AAs:  0.00751
+# sp|Q9Y5L4|TIM13_HUMAN Total prob of N-in:        0.04790
+sp|Q9Y5L4|TIM13_HUMAN	TMHMM2.0	outside	     1    95
+
+# sp|P62263|RS14_HUMAN Length: 151
+# sp|P62263|RS14_HUMAN Number of predicted TMHs:  0
+# sp|P62263|RS14_HUMAN Exp number of AAs in TMHs: 0.00342
+# sp|P62263|RS14_HUMAN Exp number, first 60 AAs:  0.00342
+# sp|P62263|RS14_HUMAN Total prob of N-in:        0.65646
+sp|P62263|RS14_HUMAN	TMHMM2.0	inside	     1   151
+
+# sp|P11142|HSP7C_HUMAN Length: 646
+# sp|P11142|HSP7C_HUMAN Number of predicted TMHs:  0
+# sp|P11142|HSP7C_HUMAN Exp number of AAs in TMHs: 0.0423000000000001
+# sp|P11142|HSP7C_HUMAN Exp number, first 60 AAs:  0.00912
+# sp|P11142|HSP7C_HUMAN Total prob of N-in:        0.00109
+sp|P11142|HSP7C_HUMAN	TMHMM2.0	outside	     1   646
+
+# sp|P50238|CRIP1_HUMAN Length: 77
+# sp|P50238|CRIP1_HUMAN Number of predicted TMHs:  0
+# sp|P50238|CRIP1_HUMAN Exp number of AAs in TMHs: 0.00039
+# sp|P50238|CRIP1_HUMAN Exp number, first 60 AAs:  0.00017
+# sp|P50238|CRIP1_HUMAN Total prob of N-in:        0.59843
+sp|P50238|CRIP1_HUMAN	TMHMM2.0	inside	     1    77
+
+# sp|P63261|ACTG_HUMAN Length: 375
+# sp|P63261|ACTG_HUMAN Number of predicted TMHs:  0
+# sp|P63261|ACTG_HUMAN Exp number of AAs in TMHs: 1.25172
+# sp|P63261|ACTG_HUMAN Exp number, first 60 AAs:  0.00134
+# sp|P63261|ACTG_HUMAN Total prob of N-in:        0.02886
+sp|P63261|ACTG_HUMAN	TMHMM2.0	outside	     1   375
+
+# sp|P49773|HINT1_HUMAN Length: 126
+# sp|P49773|HINT1_HUMAN Number of predicted TMHs:  0
+# sp|P49773|HINT1_HUMAN Exp number of AAs in TMHs: 0.000980000000000001
+# sp|P49773|HINT1_HUMAN Exp number, first 60 AAs:  0.00017
+# sp|P49773|HINT1_HUMAN Total prob of N-in:        0.32328
+sp|P49773|HINT1_HUMAN	TMHMM2.0	outside	     1   126
+
+# sp|P10253|LYAG_HUMAN Length: 952
+# sp|P10253|LYAG_HUMAN Number of predicted TMHs:  1
+# sp|P10253|LYAG_HUMAN Exp number of AAs in TMHs: 20.6654499999999
+# sp|P10253|LYAG_HUMAN Exp number, first 60 AAs:  20.66002
+# sp|P10253|LYAG_HUMAN Total prob of N-in:        0.99450
+# sp|P10253|LYAG_HUMAN POSSIBLE N-term signal sequence
+sp|P10253|LYAG_HUMAN	TMHMM2.0	inside	     1    11
+sp|P10253|LYAG_HUMAN	TMHMM2.0	TMhelix	    12    31
+sp|P10253|LYAG_HUMAN	TMHMM2.0	outside	    32   952
+
+# sp|Q14566|MCM6_HUMAN Length: 821
+# sp|Q14566|MCM6_HUMAN Number of predicted TMHs:  0
+# sp|Q14566|MCM6_HUMAN Exp number of AAs in TMHs: 0.00036
+# sp|Q14566|MCM6_HUMAN Exp number, first 60 AAs:  0
+# sp|Q14566|MCM6_HUMAN Total prob of N-in:        0.00003
+sp|Q14566|MCM6_HUMAN	TMHMM2.0	outside	     1   821
+
+# sp|P61247|RS3A_HUMAN Length: 264
+# sp|P61247|RS3A_HUMAN Number of predicted TMHs:  0
+# sp|P61247|RS3A_HUMAN Exp number of AAs in TMHs: 0.00125
+# sp|P61247|RS3A_HUMAN Exp number, first 60 AAs:  0
+# sp|P61247|RS3A_HUMAN Total prob of N-in:        0.12379
+sp|P61247|RS3A_HUMAN	TMHMM2.0	outside	     1   264
+
+# sp|Q9UN86|G3BP2_HUMAN Length: 482
+# sp|Q9UN86|G3BP2_HUMAN Number of predicted TMHs:  0
+# sp|Q9UN86|G3BP2_HUMAN Exp number of AAs in TMHs: 0.000840000000000001
+# sp|Q9UN86|G3BP2_HUMAN Exp number, first 60 AAs:  0
+# sp|Q9UN86|G3BP2_HUMAN Total prob of N-in:        0.00079
+sp|Q9UN86|G3BP2_HUMAN	TMHMM2.0	outside	     1   482
+
+# sp|P22314|UBA1_HUMAN Length: 1058
+# sp|P22314|UBA1_HUMAN Number of predicted TMHs:  0
+# sp|P22314|UBA1_HUMAN Exp number of AAs in TMHs: 9.80403
+# sp|P22314|UBA1_HUMAN Exp number, first 60 AAs:  0
+# sp|P22314|UBA1_HUMAN Total prob of N-in:        0.00126
+sp|P22314|UBA1_HUMAN	TMHMM2.0	outside	     1  1058
+
+# sp|Q8N8S7|ENAH_HUMAN Length: 591
+# sp|Q8N8S7|ENAH_HUMAN Number of predicted TMHs:  0
+# sp|Q8N8S7|ENAH_HUMAN Exp number of AAs in TMHs: 0.00356
+# sp|Q8N8S7|ENAH_HUMAN Exp number, first 60 AAs:  0.00239
+# sp|Q8N8S7|ENAH_HUMAN Total prob of N-in:        0.00229
+sp|Q8N8S7|ENAH_HUMAN	TMHMM2.0	outside	     1   591
+
+# sp|Q9HC35|EMAL4_HUMAN Length: 981
+# sp|Q9HC35|EMAL4_HUMAN Number of predicted TMHs:  0
+# sp|Q9HC35|EMAL4_HUMAN Exp number of AAs in TMHs: 2.14070000000001
+# sp|Q9HC35|EMAL4_HUMAN Exp number, first 60 AAs:  0.00017
+# sp|Q9HC35|EMAL4_HUMAN Total prob of N-in:        0.09017
+sp|Q9HC35|EMAL4_HUMAN	TMHMM2.0	outside	     1   981
+
+# sp|Q32MZ4|LRRF1_HUMAN Length: 808
+# sp|Q32MZ4|LRRF1_HUMAN Number of predicted TMHs:  0
+# sp|Q32MZ4|LRRF1_HUMAN Exp number of AAs in TMHs: 0.00068
+# sp|Q32MZ4|LRRF1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q32MZ4|LRRF1_HUMAN Total prob of N-in:        0.00014
+sp|Q32MZ4|LRRF1_HUMAN	TMHMM2.0	outside	     1   808
+
+# sp|Q9UKY7|CDV3_HUMAN Length: 258
+# sp|Q9UKY7|CDV3_HUMAN Number of predicted TMHs:  0
+# sp|Q9UKY7|CDV3_HUMAN Exp number of AAs in TMHs: 1.5875
+# sp|Q9UKY7|CDV3_HUMAN Exp number, first 60 AAs:  1.58732
+# sp|Q9UKY7|CDV3_HUMAN Total prob of N-in:        0.11529
+sp|Q9UKY7|CDV3_HUMAN	TMHMM2.0	outside	     1   258
+
+# sp|Q14676|MDC1_HUMAN Length: 2089
+# sp|Q14676|MDC1_HUMAN Number of predicted TMHs:  0
+# sp|Q14676|MDC1_HUMAN Exp number of AAs in TMHs: 0.01233
+# sp|Q14676|MDC1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q14676|MDC1_HUMAN Total prob of N-in:        0.00000
+sp|Q14676|MDC1_HUMAN	TMHMM2.0	outside	     1  2089
+
+# sp|P31948|STIP1_HUMAN Length: 543
+# sp|P31948|STIP1_HUMAN Number of predicted TMHs:  0
+# sp|P31948|STIP1_HUMAN Exp number of AAs in TMHs: 0
+# sp|P31948|STIP1_HUMAN Exp number, first 60 AAs:  0
+# sp|P31948|STIP1_HUMAN Total prob of N-in:        0.00264
+sp|P31948|STIP1_HUMAN	TMHMM2.0	outside	     1   543
+
+# sp|P42166|LAP2A_HUMAN Length: 694
+# sp|P42166|LAP2A_HUMAN Number of predicted TMHs:  0
+# sp|P42166|LAP2A_HUMAN Exp number of AAs in TMHs: 0.00512
+# sp|P42166|LAP2A_HUMAN Exp number, first 60 AAs:  0
+# sp|P42166|LAP2A_HUMAN Total prob of N-in:        0.00005
+sp|P42166|LAP2A_HUMAN	TMHMM2.0	outside	     1   694
+
+# sp|Q15691|MARE1_HUMAN Length: 268
+# sp|Q15691|MARE1_HUMAN Number of predicted TMHs:  0
+# sp|Q15691|MARE1_HUMAN Exp number of AAs in TMHs: 0.03646
+# sp|Q15691|MARE1_HUMAN Exp number, first 60 AAs:  0.03644
+# sp|Q15691|MARE1_HUMAN Total prob of N-in:        0.06734
+sp|Q15691|MARE1_HUMAN	TMHMM2.0	outside	     1   268
+
+# sp|Q15113|PCOC1_HUMAN Length: 449
+# sp|Q15113|PCOC1_HUMAN Number of predicted TMHs:  0
+# sp|Q15113|PCOC1_HUMAN Exp number of AAs in TMHs: 1.45592
+# sp|Q15113|PCOC1_HUMAN Exp number, first 60 AAs:  1.45472
+# sp|Q15113|PCOC1_HUMAN Total prob of N-in:        0.06816
+sp|Q15113|PCOC1_HUMAN	TMHMM2.0	outside	     1   449
+
+# sp|Q96C90|PP14B_HUMAN Length: 147
+# sp|Q96C90|PP14B_HUMAN Number of predicted TMHs:  0
+# sp|Q96C90|PP14B_HUMAN Exp number of AAs in TMHs: 0.00988
+# sp|Q96C90|PP14B_HUMAN Exp number, first 60 AAs:  0.00988
+# sp|Q96C90|PP14B_HUMAN Total prob of N-in:        0.12909
+sp|Q96C90|PP14B_HUMAN	TMHMM2.0	outside	     1   147
+
+# sp|O75312|ZPR1_HUMAN Length: 459
+# sp|O75312|ZPR1_HUMAN Number of predicted TMHs:  0
+# sp|O75312|ZPR1_HUMAN Exp number of AAs in TMHs: 0.000700000000000001
+# sp|O75312|ZPR1_HUMAN Exp number, first 60 AAs:  0.00017
+# sp|O75312|ZPR1_HUMAN Total prob of N-in:        0.00122
+sp|O75312|ZPR1_HUMAN	TMHMM2.0	outside	     1   459
+
+# sp|Q15942|ZYX_HUMAN Length: 572
+# sp|Q15942|ZYX_HUMAN Number of predicted TMHs:  0
+# sp|Q15942|ZYX_HUMAN Exp number of AAs in TMHs: 0.00304
+# sp|Q15942|ZYX_HUMAN Exp number, first 60 AAs:  0.00245
+# sp|Q15942|ZYX_HUMAN Total prob of N-in:        0.00062
+sp|Q15942|ZYX_HUMAN	TMHMM2.0	outside	     1   572
+
+# sp|P49588|SYAC_HUMAN Length: 968
+# sp|P49588|SYAC_HUMAN Number of predicted TMHs:  0
+# sp|P49588|SYAC_HUMAN Exp number of AAs in TMHs: 0.00842999999999998
+# sp|P49588|SYAC_HUMAN Exp number, first 60 AAs:  0.00446
+# sp|P49588|SYAC_HUMAN Total prob of N-in:        0.00040
+sp|P49588|SYAC_HUMAN	TMHMM2.0	outside	     1   968
+
+# sp|Q8IXL7|MSRB3_HUMAN Length: 192
+# sp|Q8IXL7|MSRB3_HUMAN Number of predicted TMHs:  0
+# sp|Q8IXL7|MSRB3_HUMAN Exp number of AAs in TMHs: 13.84951
+# sp|Q8IXL7|MSRB3_HUMAN Exp number, first 60 AAs:  13.84896
+# sp|Q8IXL7|MSRB3_HUMAN Total prob of N-in:        0.59327
+# sp|Q8IXL7|MSRB3_HUMAN POSSIBLE N-term signal sequence
+sp|Q8IXL7|MSRB3_HUMAN	TMHMM2.0	outside	     1   192
+
+# sp|Q63ZY3|KANK2_HUMAN Length: 851
+# sp|Q63ZY3|KANK2_HUMAN Number of predicted TMHs:  0
+# sp|Q63ZY3|KANK2_HUMAN Exp number of AAs in TMHs: 0.00591
+# sp|Q63ZY3|KANK2_HUMAN Exp number, first 60 AAs:  0.00016
+# sp|Q63ZY3|KANK2_HUMAN Total prob of N-in:        0.00021
+sp|Q63ZY3|KANK2_HUMAN	TMHMM2.0	outside	     1   851
+
+# sp|Q86U42|PABP2_HUMAN Length: 306
+# sp|Q86U42|PABP2_HUMAN Number of predicted TMHs:  0
+# sp|Q86U42|PABP2_HUMAN Exp number of AAs in TMHs: 0.01768
+# sp|Q86U42|PABP2_HUMAN Exp number, first 60 AAs:  0.01768
+# sp|Q86U42|PABP2_HUMAN Total prob of N-in:        0.04059
+sp|Q86U42|PABP2_HUMAN	TMHMM2.0	outside	     1   306
+
+# sp|Q15459|SF3A1_HUMAN Length: 793
+# sp|Q15459|SF3A1_HUMAN Number of predicted TMHs:  0
+# sp|Q15459|SF3A1_HUMAN Exp number of AAs in TMHs: 0.10742
+# sp|Q15459|SF3A1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q15459|SF3A1_HUMAN Total prob of N-in:        0.00002
+sp|Q15459|SF3A1_HUMAN	TMHMM2.0	outside	     1   793
+
+# sp|P15170|ERF3A_HUMAN Length: 499
+# sp|P15170|ERF3A_HUMAN Number of predicted TMHs:  0
+# sp|P15170|ERF3A_HUMAN Exp number of AAs in TMHs: 0.00668999999999998
+# sp|P15170|ERF3A_HUMAN Exp number, first 60 AAs:  0
+# sp|P15170|ERF3A_HUMAN Total prob of N-in:        0.00082
+sp|P15170|ERF3A_HUMAN	TMHMM2.0	outside	     1   499
+
+# sp|P30043|BLVRB_HUMAN Length: 206
+# sp|P30043|BLVRB_HUMAN Number of predicted TMHs:  0
+# sp|P30043|BLVRB_HUMAN Exp number of AAs in TMHs: 0.1708
+# sp|P30043|BLVRB_HUMAN Exp number, first 60 AAs:  0.16458
+# sp|P30043|BLVRB_HUMAN Total prob of N-in:        0.08917
+sp|P30043|BLVRB_HUMAN	TMHMM2.0	outside	     1   206
+
+# sp|Q99729|ROAA_HUMAN Length: 332
+# sp|Q99729|ROAA_HUMAN Number of predicted TMHs:  0
+# sp|Q99729|ROAA_HUMAN Exp number of AAs in TMHs: 0.00094
+# sp|Q99729|ROAA_HUMAN Exp number, first 60 AAs:  0.00019
+# sp|Q99729|ROAA_HUMAN Total prob of N-in:        0.00869
+sp|Q99729|ROAA_HUMAN	TMHMM2.0	outside	     1   332
+
+# sp|O75179|ANR17_HUMAN Length: 2603
+# sp|O75179|ANR17_HUMAN Number of predicted TMHs:  0
+# sp|O75179|ANR17_HUMAN Exp number of AAs in TMHs: 0.0135299999999999
+# sp|O75179|ANR17_HUMAN Exp number, first 60 AAs:  0.00351
+# sp|O75179|ANR17_HUMAN Total prob of N-in:        0.00025
+sp|O75179|ANR17_HUMAN	TMHMM2.0	outside	     1  2603
+
+# sp|P52565|GDIR1_HUMAN Length: 204
+# sp|P52565|GDIR1_HUMAN Number of predicted TMHs:  0
+# sp|P52565|GDIR1_HUMAN Exp number of AAs in TMHs: 0.01373
+# sp|P52565|GDIR1_HUMAN Exp number, first 60 AAs:  0.00108
+# sp|P52565|GDIR1_HUMAN Total prob of N-in:        0.11269
+sp|P52565|GDIR1_HUMAN	TMHMM2.0	outside	     1   204
+
+# sp|Q96CT7|CC124_HUMAN Length: 223
+# sp|Q96CT7|CC124_HUMAN Number of predicted TMHs:  0
+# sp|Q96CT7|CC124_HUMAN Exp number of AAs in TMHs: 0
+# sp|Q96CT7|CC124_HUMAN Exp number, first 60 AAs:  0
+# sp|Q96CT7|CC124_HUMAN Total prob of N-in:        0.09589
+sp|Q96CT7|CC124_HUMAN	TMHMM2.0	outside	     1   223
+
+# sp|P41236|IPP2_HUMAN Length: 205
+# sp|P41236|IPP2_HUMAN Number of predicted TMHs:  0
+# sp|P41236|IPP2_HUMAN Exp number of AAs in TMHs: 0
+# sp|P41236|IPP2_HUMAN Exp number, first 60 AAs:  0
+# sp|P41236|IPP2_HUMAN Total prob of N-in:        0.13944
+sp|P41236|IPP2_HUMAN	TMHMM2.0	outside	     1   205
+
+# sp|Q9ULZ3|ASC_HUMAN Length: 195
+# sp|Q9ULZ3|ASC_HUMAN Number of predicted TMHs:  0
+# sp|Q9ULZ3|ASC_HUMAN Exp number of AAs in TMHs: 0.00663
+# sp|Q9ULZ3|ASC_HUMAN Exp number, first 60 AAs:  0.00153
+# sp|Q9ULZ3|ASC_HUMAN Total prob of N-in:        0.12977
+sp|Q9ULZ3|ASC_HUMAN	TMHMM2.0	outside	     1   195
+
+# sp|Q6BEB4|SP5_HUMAN Length: 398
+# sp|Q6BEB4|SP5_HUMAN Number of predicted TMHs:  0
+# sp|Q6BEB4|SP5_HUMAN Exp number of AAs in TMHs: 0.02371
+# sp|Q6BEB4|SP5_HUMAN Exp number, first 60 AAs:  0.0002
+# sp|Q6BEB4|SP5_HUMAN Total prob of N-in:        0.01415
+sp|Q6BEB4|SP5_HUMAN	TMHMM2.0	outside	     1   398
+
+# sp|Q9UBP4|DKK3_HUMAN Length: 350
+# sp|Q9UBP4|DKK3_HUMAN Number of predicted TMHs:  0
+# sp|Q9UBP4|DKK3_HUMAN Exp number of AAs in TMHs: 3.0356
+# sp|Q9UBP4|DKK3_HUMAN Exp number, first 60 AAs:  3.0356
+# sp|Q9UBP4|DKK3_HUMAN Total prob of N-in:        0.14879
+sp|Q9UBP4|DKK3_HUMAN	TMHMM2.0	outside	     1   350
+
+# sp|Q9UN36|NDRG2_HUMAN Length: 371
+# sp|Q9UN36|NDRG2_HUMAN Number of predicted TMHs:  0
+# sp|Q9UN36|NDRG2_HUMAN Exp number of AAs in TMHs: 13.06324
+# sp|Q9UN36|NDRG2_HUMAN Exp number, first 60 AAs:  0.00073
+# sp|Q9UN36|NDRG2_HUMAN Total prob of N-in:        0.45839
+sp|Q9UN36|NDRG2_HUMAN	TMHMM2.0	outside	     1   371
+
+# sp|P78536|ADA17_HUMAN Length: 824
+# sp|P78536|ADA17_HUMAN Number of predicted TMHs:  1
+# sp|P78536|ADA17_HUMAN Exp number of AAs in TMHs: 21.54124
+# sp|P78536|ADA17_HUMAN Exp number, first 60 AAs:  0.00708
+# sp|P78536|ADA17_HUMAN Total prob of N-in:        0.00048
+sp|P78536|ADA17_HUMAN	TMHMM2.0	outside	     1   671
+sp|P78536|ADA17_HUMAN	TMHMM2.0	TMhelix	   672   694
+sp|P78536|ADA17_HUMAN	TMHMM2.0	inside	   695   824
+
+# sp|P35443|TSP4_HUMAN Length: 961
+# sp|P35443|TSP4_HUMAN Number of predicted TMHs:  0
+# sp|P35443|TSP4_HUMAN Exp number of AAs in TMHs: 0.12681
+# sp|P35443|TSP4_HUMAN Exp number, first 60 AAs:  0.12509
+# sp|P35443|TSP4_HUMAN Total prob of N-in:        0.00627
+sp|P35443|TSP4_HUMAN	TMHMM2.0	outside	     1   961
+
+# sp|P52597|HNRPF_HUMAN Length: 415
+# sp|P52597|HNRPF_HUMAN Number of predicted TMHs:  0
+# sp|P52597|HNRPF_HUMAN Exp number of AAs in TMHs: 0.00203
+# sp|P52597|HNRPF_HUMAN Exp number, first 60 AAs:  0
+# sp|P52597|HNRPF_HUMAN Total prob of N-in:        0.00055
+sp|P52597|HNRPF_HUMAN	TMHMM2.0	outside	     1   415
+
+# sp|P23471|PTPRZ_HUMAN Length: 2315
+# sp|P23471|PTPRZ_HUMAN Number of predicted TMHs:  1
+# sp|P23471|PTPRZ_HUMAN Exp number of AAs in TMHs: 36.6595500000002
+# sp|P23471|PTPRZ_HUMAN Exp number, first 60 AAs:  0.04464
+# sp|P23471|PTPRZ_HUMAN Total prob of N-in:        0.00259
+sp|P23471|PTPRZ_HUMAN	TMHMM2.0	outside	     1  1639
+sp|P23471|PTPRZ_HUMAN	TMHMM2.0	TMhelix	  1640  1662
+sp|P23471|PTPRZ_HUMAN	TMHMM2.0	inside	  1663  2315
+
+# sp|P04156|PRIO_HUMAN Length: 253
+# sp|P04156|PRIO_HUMAN Number of predicted TMHs:  2
+# sp|P04156|PRIO_HUMAN Exp number of AAs in TMHs: 44.73342
+# sp|P04156|PRIO_HUMAN Exp number, first 60 AAs:  2.64644
+# sp|P04156|PRIO_HUMAN Total prob of N-in:        0.29678
+sp|P04156|PRIO_HUMAN	TMHMM2.0	outside	     1   111
+sp|P04156|PRIO_HUMAN	TMHMM2.0	TMhelix	   112   134
+sp|P04156|PRIO_HUMAN	TMHMM2.0	inside	   135   229
+sp|P04156|PRIO_HUMAN	TMHMM2.0	TMhelix	   230   252
+sp|P04156|PRIO_HUMAN	TMHMM2.0	outside	   253   253
+
+# sp|P40967|PMEL_HUMAN Length: 661
+# sp|P40967|PMEL_HUMAN Number of predicted TMHs:  1
+# sp|P40967|PMEL_HUMAN Exp number of AAs in TMHs: 25.27764
+# sp|P40967|PMEL_HUMAN Exp number, first 60 AAs:  2.70937
+# sp|P40967|PMEL_HUMAN Total prob of N-in:        0.14694
+sp|P40967|PMEL_HUMAN	TMHMM2.0	outside	     1   592
+sp|P40967|PMEL_HUMAN	TMHMM2.0	TMhelix	   593   615
+sp|P40967|PMEL_HUMAN	TMHMM2.0	inside	   616   661
+
+# sp|Q9UMD9|COHA1_HUMAN Length: 1497
+# sp|Q9UMD9|COHA1_HUMAN Number of predicted TMHs:  1
+# sp|Q9UMD9|COHA1_HUMAN Exp number of AAs in TMHs: 22.52103
+# sp|Q9UMD9|COHA1_HUMAN Exp number, first 60 AAs:  0
+# sp|Q9UMD9|COHA1_HUMAN Total prob of N-in:        0.97968
+sp|Q9UMD9|COHA1_HUMAN	TMHMM2.0	inside	     1   466
+sp|Q9UMD9|COHA1_HUMAN	TMHMM2.0	TMhelix	   467   489
+sp|Q9UMD9|COHA1_HUMAN	TMHMM2.0	outside	   490  1497
+
+# sp|P08473|NEP_HUMAN Length: 750
+# sp|P08473|NEP_HUMAN Number of predicted TMHs:  1
+# sp|P08473|NEP_HUMAN Exp number of AAs in TMHs: 22.5696599999999
+# sp|P08473|NEP_HUMAN Exp number, first 60 AAs:  22.56799
+# sp|P08473|NEP_HUMAN Total prob of N-in:        0.99942
+# sp|P08473|NEP_HUMAN POSSIBLE N-term signal sequence
+sp|P08473|NEP_HUMAN	TMHMM2.0	inside	     1    28
+sp|P08473|NEP_HUMAN	TMHMM2.0	TMhelix	    29    51
+sp|P08473|NEP_HUMAN	TMHMM2.0	outside	    52   750
+
+# sp|O95502|NPTXR_HUMAN Length: 500
+# sp|O95502|NPTXR_HUMAN Number of predicted TMHs:  1
+# sp|O95502|NPTXR_HUMAN Exp number of AAs in TMHs: 22.7810299999999
+# sp|O95502|NPTXR_HUMAN Exp number, first 60 AAs:  22.75285
+# sp|O95502|NPTXR_HUMAN Total prob of N-in:        0.99506
+# sp|O95502|NPTXR_HUMAN POSSIBLE N-term signal sequence
+sp|O95502|NPTXR_HUMAN	TMHMM2.0	inside	     1     6
+sp|O95502|NPTXR_HUMAN	TMHMM2.0	TMhelix	     7    29
+sp|O95502|NPTXR_HUMAN	TMHMM2.0	outside	    30   500
+
+# sp|Q9Y5Y6|ST14_HUMAN Length: 855
+# sp|Q9Y5Y6|ST14_HUMAN Number of predicted TMHs:  1
+# sp|Q9Y5Y6|ST14_HUMAN Exp number of AAs in TMHs: 22.98939
+# sp|Q9Y5Y6|ST14_HUMAN Exp number, first 60 AAs:  5.888
+# sp|Q9Y5Y6|ST14_HUMAN Total prob of N-in:        0.99959
+sp|Q9Y5Y6|ST14_HUMAN	TMHMM2.0	inside	     1    54
+sp|Q9Y5Y6|ST14_HUMAN	TMHMM2.0	TMhelix	    55    77
+sp|Q9Y5Y6|ST14_HUMAN	TMHMM2.0	outside	    78   855
